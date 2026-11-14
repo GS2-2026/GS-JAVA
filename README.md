@@ -111,7 +111,7 @@ Com a API em execucao, repita com `.\scripts\smoke.ps1`. Ele necessita da comuni
 
 Dockerfile multi-stage pronto. No Render, criar Web Service Docker e configurar DB_USERNAME, DB_PASSWORD e CORS_ALLOWED_ORIGINS. DB_URL pode ser sobrescrita se necessario. A rede do ambiente de deploy precisa alcancar o Oracle FIAP.
 
-A documentacao tecnica esta em [output/pdf/EcoComunidade_Documentacao_Tecnica.pdf](output/pdf/EcoComunidade_Documentacao_Tecnica.pdf), com integrantes, diagramas, endpoints, regras e instrucoes. O gerador reproduzivel esta em scripts/gerar_pdf_tecnico.py (requer reportlab).
+A documentacao tecnica pronta esta em [output/pdf/EcoComunidade_Documentacao_Tecnica.pdf](output/pdf/EcoComunidade_Documentacao_Tecnica.pdf), com integrantes, diagramas, endpoints, regras e instrucoes. O projeto nao depende de Python.
 
 Ainda pendentes: publicacao no Render, integracao com o React e video de ate cinco minutos. Atualizar o PDF com os links publicos quando estiverem disponiveis. Nao ha autenticacao de moradores: o usuario informado e a conta Oracle da faculdade. Nao publicar dados pessoais reais nesta etapa.
 
