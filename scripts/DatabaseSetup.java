@@ -24,7 +24,7 @@ public class DatabaseSetup {
                 r.next(); objects = r.getInt(1);
             }
             if (args.length == 1 && args[0].equals("--apply")) {
-                if (objects != 0) throw new IllegalStateException("Ja existem objetos do projeto. Instalacao interrompida para preservar os dados; revise o schema manualmente.");
+                if (objects != 0) throw new IllegalStateException("Objetos do projeto ja existentes. Instalacao interrompida; revisao manual do schema necessaria.");
                 // Oracle confirma DDL implicitamente. Em falha parcial, revisar objetos antes de repetir.
                 execute(c, Path.of("database/01_schema.sql"));
                 c.setAutoCommit(false);

@@ -13,7 +13,7 @@ API de monitoramento de consumo de agua para a Global Solution FIAP. Java 21, Sp
 
 ## Rodar localmente
 
-Requisitos: JDK 21+ e Maven 3.9+. No computador atual, `scripts/run.ps1` encontra o JDK em `.jdks` e o Maven local em `.tools`. O Java 8 do PATH nao serve para este projeto.
+Requisitos: JDK 21+ e Maven 3.9+. O script `scripts/run.ps1` utiliza JAVA_HOME ou detecta um JDK em `.jdks`; o Maven pode estar no PATH ou em `.tools`.
 
 ```powershell
 .\scripts\run.ps1 -Test
@@ -22,7 +22,7 @@ Requisitos: JDK 21+ e Maven 3.9+. No computador atual, `scripts/run.ps1` encontr
 
 Com Maven instalado: `mvn test` e `mvn spring-boot:run`. API em `http://localhost:8080/api`.
 
-As credenciais locais ficam em `config/application-local.properties`, ignorado pelo Git e pelo Docker. Para outra maquina, copie o arquivo `.example` e preencha seus dados, ou defina `DB_USERNAME` e `DB_PASSWORD` no ambiente. Nunca inclua o arquivo local no ZIP da entrega.
+As credenciais sao configuradas pelas variaveis DB_USERNAME e DB_PASSWORD ou pelo arquivo local `config/application-local.properties`, ignorado pelo Git e pelo Docker. A estrutura esta em `config/application-local.properties.example`.
 
 | Variavel | Uso |
 | --- | --- |
@@ -41,7 +41,7 @@ Modelo adaptado do SQL de agua fornecido em `BD/GS-DATABASE-main.zip`. Nao modif
 3. `database/03_consultas.sql`: dez consultas, somente leitura.
 4. `database/04_crud_exemplo.sql`: demonstracao com rollback, opcional.
 
-Pode executar no SQL Developer conectado ao Oracle da FIAP. Alternativamente, apos baixar as dependencias com os testes:
+Execucao pelo SQL Developer conectado ao Oracle da FIAP ou pelos scripts locais, apos resolucao das dependencias Maven:
 
 ```powershell
 $env:JAVA_HOME = 'C:\caminho\do\jdk'
@@ -49,7 +49,7 @@ $env:JAVA_HOME = 'C:\caminho\do\jdk'
 .\scripts\database.ps1 -Apply  # cria schema e insere seed
 ```
 
-O instalador interrompe se algum objeto do projeto ja existir. Nao faz DROP. Oracle confirma DDL implicitamente: em falha parcial, revise os objetos antes de repetir. O inicio da API nunca cria ou apaga tabelas automaticamente.
+O instalador interrompe se algum objeto do projeto ja existir. Nao faz DROP. Oracle confirma DDL implicitamente; falhas parciais exigem revisao do schema. A inicializacao da API nao cria nem apaga tabelas automaticamente.
 
 ## Contrato HTTP
 
@@ -87,7 +87,7 @@ Exemplo de erro:
 
 ## Regras de negocio
 
-O SQL entregue pelo grupo usa consumo do periodo em litros, e NAO leitura acumulada. Esta API preserva esse significado: valores podem diminuir entre periodos; nao calcula diferencas entre os consumos. O plano interno sugere leituras acumuladas e energia, o que requer uma evolucao acordada do schema e do contrato antes de implementar.
+O campo consumoLitros representa consumo do periodo em litros. Valores podem diminuir entre periodos; a API nao calcula diferencas entre leituras acumuladas e nao registra energia.
 
 - Somente medidor ATIVO recebe cadastro/alteracao de leitura.
 - Leitura nao pode anteceder a instalacao nem estar no futuro.
@@ -105,14 +105,20 @@ Os testes de integracao usam H2 em modo Oracle, carregam os mesmos scripts de sc
 
 Validacao realizada em 14/11/2026: conexao autenticada ao Oracle FIAP, schema instalado, 60 registros conferidos, tres testes de integracao aprovados e JAR gerado. O script `scripts/smoke.ps1` tambem confirmou GET, POST, PUT e DELETE reais das tres entidades pelo servidor local, incluindo rotas aninhadas; removeu os registros temporarios ao final.
 
-Com a API em execucao, repita com `.\scripts\smoke.ps1`. Ele necessita da comunidade de exemplo de ID 1. IDs consumidos pelas sequences nos testes reais nao sao reutilizados.
+O teste HTTP real e executado por `.\scripts\smoke.ps1`, com a API ativa e a comunidade de exemplo de ID 1. IDs consumidos pelas sequences nao sao reutilizados.
 
 ## Deploy e proximas entregas
 
 Dockerfile multi-stage pronto. No Render, criar Web Service Docker e configurar DB_USERNAME, DB_PASSWORD e CORS_ALLOWED_ORIGINS. DB_URL pode ser sobrescrita se necessario. A rede do ambiente de deploy precisa alcancar o Oracle FIAP.
 
-A documentacao tecnica pronta esta em [output/pdf/EcoComunidade_Documentacao_Tecnica.pdf](output/pdf/EcoComunidade_Documentacao_Tecnica.pdf), com integrantes, diagramas, endpoints, regras e instrucoes. O projeto nao depende de Python.
+A documentacao tecnica esta em [output/pdf/EcoComunidade_Documentacao_Tecnica.pdf](output/pdf/EcoComunidade_Documentacao_Tecnica.pdf), com integrantes, diagramas, endpoints, regras e execucao.
 
-Ainda pendentes: publicacao no Render, integracao com o React e video de ate cinco minutos. Atualizar o PDF com os links publicos quando estiverem disponiveis. Nao ha autenticacao de moradores: o usuario informado e a conta Oracle da faculdade. Nao publicar dados pessoais reais nesta etapa.
+Pendencias para a entrega:
+
+- Publicacao da API no Render e validacao do CRUD remoto com Oracle.
+- Integracao com o React, com consulta e operacao de escrita reais.
+- Gravacao e disponibilizacao do video de ate cinco minutos.
+- Inclusao dos links da API e do video no README e no PDF.
+- Montagem do ZIP final sem target, .tools e credenciais locais.
 
 Referencias tecnicas: [Spring Boot](https://docs.spring.io/spring-boot/3.5/system-requirements.html), [Oracle JDBC](https://docs.oracle.com/en/database/oracle/oracle-database/26/jjdbc/data-sources-and-URLs.html).
