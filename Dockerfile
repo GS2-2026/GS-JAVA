@@ -3,6 +3,7 @@ WORKDIR /app
 COPY pom.xml .
 RUN mvn -B dependency:go-offline
 COPY src src
+COPY database database
 RUN mvn -B clean package
 
 FROM eclipse-temurin:21-jre
