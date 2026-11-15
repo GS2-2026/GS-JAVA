@@ -11,6 +11,15 @@ API de monitoramento de consumo de agua para a Global Solution FIAP. Java 21, Sp
 | Henrique Soares Serra | 573618 | 1TDSPI |
 | Arthur Chang Skolimoski | 572510 | 1TDSPH |
 
+## Links da entrega
+
+- API publicada: [EcoComunidade no Render](https://ecocomunidade-api.onrender.com).
+- Consulta de residencias: [GET /api/residencias](https://ecocomunidade-api.onrender.com/api/residencias).
+- Front-end: pendente de integracao e disponibilizacao do link.
+- Video de demonstracao: pendente de gravacao e disponibilizacao do link.
+
+A raiz `/` nao possui endpoint e retorna 404. Os recursos estao sob `/api`.
+
 ## Rodar localmente
 
 Requisitos: JDK 21+ e Maven 3.9+. O script `scripts/run.ps1` utiliza JAVA_HOME ou detecta um JDK em `.jdks`; o Maven pode estar no PATH ou em `.tools`.
@@ -107,18 +116,26 @@ Validacao realizada em 14/11/2026: conexao autenticada ao Oracle FIAP, schema in
 
 O teste HTTP real e executado por `.\scripts\smoke.ps1`, com a API ativa e a comunidade de exemplo de ID 1. IDs consumidos pelas sequences nao sao reutilizados.
 
+Validacao remota em 15/11/2026: o resultado do script executado contra a API publicada no Render confirmou GET, POST, PUT e DELETE de residencias, medidores e leituras no Oracle, incluindo as rotas aninhadas. As respostas foram 200 para consultas e atualizacoes, 201 para cadastros e 204 para exclusoes. Os registros temporarios foram removidos ao final.
+
+Comando do teste remoto, sem necessidade de iniciar a API local:
+
+```powershell
+.\scripts\smoke.ps1 -BaseUrl "https://ecocomunidade-api.onrender.com/api"
+```
+
 ## Deploy e proximas entregas
 
-Dockerfile multi-stage pronto. No Render, criar Web Service Docker e configurar DB_USERNAME, DB_PASSWORD e CORS_ALLOWED_ORIGINS. DB_URL pode ser sobrescrita se necessario. A rede do ambiente de deploy precisa alcancar o Oracle FIAP.
+API publicada no Render como Web Service Docker, com Dockerfile multi-stage. A configuracao utiliza DB_USERNAME, DB_PASSWORD e CORS_ALLOWED_ORIGINS; DB_URL pode ser sobrescrita por ambiente. A comunicacao do servico publicado com o Oracle FIAP foi validada pelo teste remoto.
 
 A documentacao tecnica esta em [output/pdf/EcoComunidade_Documentacao_Tecnica.pdf](output/pdf/EcoComunidade_Documentacao_Tecnica.pdf), com integrantes, diagramas, endpoints, regras e execucao.
 
 Pendencias para a entrega:
 
-- Publicacao da API no Render e validacao do CRUD remoto com Oracle.
 - Integracao com o React, com consulta e operacao de escrita reais.
 - Gravacao e disponibilizacao do video de ate cinco minutos.
-- Inclusao dos links da API e do video no README e no PDF.
+- Inclusao dos links do front-end e do video no README.
+- Atualizacao do PDF com a URL publicada da API, a validacao remota e os links finais da entrega.
 - Montagem do ZIP final sem target, .tools e credenciais locais.
 
 Referencias tecnicas: [Spring Boot](https://docs.spring.io/spring-boot/3.5/system-requirements.html), [Oracle JDBC](https://docs.oracle.com/en/database/oracle/oracle-database/26/jjdbc/data-sources-and-URLs.html).
