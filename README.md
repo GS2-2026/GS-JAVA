@@ -17,7 +17,7 @@ API de monitoramento de consumo de agua para a Global Solution FIAP. Java 21, Sp
 - Consulta de residencias: [GET /api/residencias](https://ecocomunidade-api.onrender.com/api/residencias).
 - Front-end publicado: [EcoComunidade no Vercel](https://front-two-self.vercel.app).
 - Repositorio do front-end: [GS2-2026/Front](https://github.com/GS2-2026/Front).
-- Video de demonstracao: pendente de gravacao e disponibilizacao do link.
+- Video de demonstracao: [assistir no Google Drive](https://drive.google.com/file/d/1MfjANvEr8DI3tfJ3YRQbDPAR3N0D7MZ_/view?usp=sharing).
 
 A raiz `/` nao possui endpoint e retorna 404. Os recursos estao sob `/api`.
 
@@ -131,18 +131,17 @@ Comando do teste remoto, sem necessidade de iniciar a API local:
 .\scripts\smoke.ps1 -BaseUrl "https://ecocomunidade-api.onrender.com/api"
 ```
 
-## Deploy e proximas entregas
+## Deploy e entrega
 
 API publicada no Render como Web Service Docker, com Dockerfile multi-stage. A configuracao utiliza DB_USERNAME, DB_PASSWORD e CORS_ALLOWED_ORIGINS; DB_URL pode ser sobrescrita por ambiente. A comunicacao do servico publicado com o Oracle FIAP foi validada pelo teste remoto.
 
-A documentacao tecnica esta em [output/pdf/EcoComunidade_Documentacao_Tecnica.pdf](output/pdf/EcoComunidade_Documentacao_Tecnica.pdf), com integrantes, diagramas, endpoints, regras e execucao.
+A documentacao tecnica esta em [pdf/EcoComunidade_Documentacao_Tecnica.pdf](pdf/EcoComunidade_Documentacao_Tecnica.pdf), com integrantes, diagramas, endpoints, regras e execucao.
 
-Integracao com o front React no Vercel confirmada pelo grupo. O PDF tecnico foi atualizado em 16/11/2026 com os links publicos, o deploy concluido e a validacao do CRUD remoto.
+Integracao com o front React no Vercel confirmada pelo grupo. O PDF tecnico foi atualizado em 17/11/2026 com os links publicos, o video de demonstracao informado pelo grupo, o deploy concluido e a validacao do CRUD remoto. O link do video esta incluido neste README e no PDF.
 
 Pendencias para a entrega:
 
-- Gravacao e disponibilizacao do video de ate cinco minutos.
-- Inclusao do link do video no README e no PDF.
+- Publicacao do video no YouTube como nao listado, conforme o enunciado de Java (ate cinco minutos). O link disponibilizado atualmente e do Google Drive.
 - Montagem do ZIP final sem target, .tools e credenciais locais.
 
 Referencias tecnicas: [Spring Boot](https://docs.spring.io/spring-boot/3.5/system-requirements.html), [Oracle JDBC](https://docs.oracle.com/en/database/oracle/oracle-database/26/jjdbc/data-sources-and-URLs.html).

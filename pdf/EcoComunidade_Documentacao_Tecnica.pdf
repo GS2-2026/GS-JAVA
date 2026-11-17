@@ -1,272 +1,4850 @@
-%PDF-1.4
-%“Œ‹ž ReportLab Generated PDF document (opensource)
+%PDF-1.3
+%âãÏÓ
 1 0 obj
 <<
-/F1 2 0 R /F2 3 0 R /F3 8 0 R
+/PageMode /UseNone
+/Pages 2 0 R
+/Type /Catalog
 >>
 endobj
 2 0 obj
 <<
-/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
+/Count 9
+/Kids [ 3 0 R 12 0 R 14 0 R 16 0 R 18 0 R 20 0 R 22 0 R 24 0 R 26 0 R ]
+/Type /Pages
 >>
 endobj
 3 0 obj
 <<
-/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
+/Annots [ 4 0 R 5 0 R 6 0 R 31 0 R ]
+/Contents 7 0 R
+/MediaBox [ 0 0 595.28 841.89 ]
+/Parent 2 0 R
+/Resources <<
+/Font 8 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
 >>
 endobj
 4 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://ecocomunidade-api.onrender.com/api/residencias)
->> /Border [ 0 0 0 ] /Rect [ 104.14 448.19 355.36 460.19 ] /Subtype /Link /Type /Annot
+/S /URI
+/Type /Action
+/URI (https\072\057\057ecocomunidade\055api\056onrender\056com\057api\057residencias)
+>>
+/Border [ 0 0 0 ]
+/Rect [ 104.14 448.19 355.36 460.19 ]
+/Subtype /Link
+/Type /Annot
 >>
 endobj
 5 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://front-two-self.vercel.app)
->> /Border [ 0 0 0 ] /Rect [ 96.91 433.19 233.63 445.19 ] /Subtype /Link /Type /Annot
+/S /URI
+/Type /Action
+/URI (https\072\057\057front\055two\055self\056vercel\056app)
+>>
+/Border [ 0 0 0 ]
+/Rect [ 96.91 433.19 233.63 445.19 ]
+/Subtype /Link
+/Type /Annot
 >>
 endobj
 6 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://github.com/GS2-2026/Front)
->> /Border [ 0 0 0 ] /Rect [ 140.82 418.19 264.21 430.19 ] /Subtype /Link /Type /Annot
+/S /URI
+/Type /Action
+/URI (https\072\057\057github\056com\057GS2\0552026\057Front)
+>>
+/Border [ 0 0 0 ]
+/Rect [ 140.82 418.19 264.21 430.19 ]
+/Subtype /Link
+/Type /Annot
 >>
 endobj
 7 0 obj
 <<
-/Annots [ 4 0 R 5 0 R 6 0 R ] /Contents 22 0 R /MediaBox [ 0 0 595.28 841.89 ] /Parent 21 0 R /Resources <<
-/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
->> /Rotate 0 
-  /Trans <<
-
->> /Type /Page
+/Length 6908
 >>
+stream
+1 0 0 1 0 0 cm
+BT
+/F1 12 Tf
+14.4 TL
+ET
+0.031373 0.498039 0.470588 rg
+n
+0 831.89 595.28 10 re
+f*
+0.321569 0.388235 0.447059 rg
+BT
+/F2 9 Tf
+10.8 TL
+ET
+BT
+1 0 0 1 48 798.89 Tm
+(ECOCOMUNIDADE \057 API JAVA) Tj
+T*
+ET
+0.070588 0.203922 0.282353 rg
+BT
+/F2 23 Tf
+27.6 TL
+ET
+BT
+1 0 0 1 48 758.89 Tm
+(Documenta\347\343o t\351cnica) Tj
+T*
+ET
+BT
+/F1 10 Tf
+12 TL
+ET
+0.321569 0.388235 0.447059 rg
+BT
+1 0 0 1 48 735.89 Tm
+(Domain Driven Design Using Java \174 Vers\343o 0\0560\0561\055SNAPSHOT) Tj
+T*
+ET
+0.847059 0.890196 0.901961 RG
+n
+48 47 m
+547 47 l
+S
+BT
+/F1 8 Tf
+9.6 TL
+ET
+BT
+1 0 0 1 48 32 Tm
+(FIAP \174 Global Solution 2026\0572 \174 17 de novembro de 2026) Tj
+T*
+ET
+BT
+1 0 0 1 538.104 32 Tm
+(01) Tj
+T*
+ET
+0.031373 0.498039 0.470588 rg
+BT
+/F2 12 Tf
+14.4 TL
+ET
+BT
+1 0 0 1 48 701.89 Tm
+(EcoComunidade) Tj
+T*
+ET
+q
+1 0 0 1 48 640.19 cm
+q
+0.070588 0.203922 0.282353 rg
+BT
+1 0 0 1 0 24.7 Tm
+/F1 13 Tf
+18.85 TL
+(API REST para registrar e consultar o consumo de \341gua de resid\352ncias em) Tj
+T*
+(comunidades\056 Persist\352ncia no Oracle da FIAP\054 com Java\054 Spring Boot e JDBC\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 48 500.19 cm
+q
+0.929412 0.960784 0.960784 rg
+n
+0 130 499 -26 re
+f*
+0 0 0 rg
+BT
+/F1 10 Tf
+12 TL
+ET
+q
+1 0 0 1 8 111 cm
+q
+0.070588 0.203922 0.282353 rg
+BT
+1 0 0 1 0 3.6 Tm
+/F1 8.4 Tf
+12 TL
+(Integrante) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 317 111 cm
+q
+0.070588 0.203922 0.282353 rg
+BT
+1 0 0 1 0 3.6 Tm
+/F1 8.4 Tf
+12 TL
+(RM) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 407 111 cm
+q
+0.070588 0.203922 0.282353 rg
+BT
+1 0 0 1 0 3.6 Tm
+/F1 8.4 Tf
+12 TL
+(Turma) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 8 85 cm
+q
+0.070588 0.203922 0.282353 rg
+BT
+1 0 0 1 0 3.6 Tm
+/F1 8.4 Tf
+12 TL
+(Lucas Fortunato Brand\343o de Pinho) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 317 85 cm
+q
+0.070588 0.203922 0.282353 rg
+BT
+1 0 0 1 0 3.6 Tm
+/F1 8.4 Tf
+12 TL
+(572860) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 407 85 cm
+q
+0.070588 0.203922 0.282353 rg
+BT
+1 0 0 1 0 3.6 Tm
+/F1 8.4 Tf
+12 TL
+(1TDSPI) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 8 59 cm
+q
+0.070588 0.203922 0.282353 rg
+BT
+1 0 0 1 0 3.6 Tm
+/F1 8.4 Tf
+12 TL
+(Lucas Costa) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 317 59 cm
+q
+0.070588 0.203922 0.282353 rg
+BT
+1 0 0 1 0 3.6 Tm
+/F1 8.4 Tf
+12 TL
+(571016) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 407 59 cm
+q
+0.070588 0.203922 0.282353 rg
+BT
+1 0 0 1 0 3.6 Tm
+/F1 8.4 Tf
+12 TL
+(1TDSPI) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 8 33 cm
+q
+0.070588 0.203922 0.282353 rg
+BT
+1 0 0 1 0 3.6 Tm
+/F1 8.4 Tf
+12 TL
+(Henrique Soares Serra) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 317 33 cm
+q
+0.070588 0.203922 0.282353 rg
+BT
+1 0 0 1 0 3.6 Tm
+/F1 8.4 Tf
+12 TL
+(573618) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 407 33 cm
+q
+0.070588 0.203922 0.282353 rg
+BT
+1 0 0 1 0 3.6 Tm
+/F1 8.4 Tf
+12 TL
+(1TDSPI) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 8 7 cm
+q
+0.070588 0.203922 0.282353 rg
+BT
+1 0 0 1 0 3.6 Tm
+/F1 8.4 Tf
+12 TL
+(Arthur Chang Skolimoski) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 317 7 cm
+q
+0.070588 0.203922 0.282353 rg
+BT
+1 0 0 1 0 3.6 Tm
+/F1 8.4 Tf
+12 TL
+(572510) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 407 7 cm
+q
+0.070588 0.203922 0.282353 rg
+BT
+1 0 0 1 0 3.6 Tm
+/F1 8.4 Tf
+12 TL
+(1TDSPK) Tj
+T*
+ET
+Q
+Q
+q
+1 J
+1 j
+0.847059 0.890196 0.901961 RG
+0.4 w
+n
+0 104 m
+499 104 l
+S
+n
+0 78 m
+499 78 l
+S
+n
+0 52 m
+499 52 l
+S
+n
+0 26 m
+499 26 l
+S
+n
+0 0 m
+499 0 l
+S
+Q
+Q
+Q
+0.031373 0.498039 0.470588 rg
+BT
+/F2 12 Tf
+14.4 TL
+ET
+BT
+1 0 0 1 48 484.19 Tm
+(Acesso e situa\347\343o da entrega) Tj
+T*
+ET
+q
+1 0 0 1 48 400.19 cm
+q
+BT
+1 0 0 1 0 50 Tm
+15 TL
+/F1 10 Tf
+0.070588 0.203922 0.282353 rg
+(API p\372blica\072 ) Tj
+0.031373 0.498039 0.470588 rg
+(https\072\057\057ecocomunidade\055api\056onrender\056com\057api\057residencias) Tj
+0.070588 0.203922 0.282353 rg
+(\056) Tj
+T*
+(Front\055end\072 ) Tj
+0.031373 0.498039 0.470588 rg
+(https\072\057\057front\055two\055self\056vercel\056app) Tj
+0.070588 0.203922 0.282353 rg
+(\056) Tj
+T*
+(Reposit\363rio do front\072 ) Tj
+0.031373 0.498039 0.470588 rg
+(github\056com\057GS2\0552026\057Front) Tj
+0.070588 0.203922 0.282353 rg
+(\056) Tj
+T*
+(V\355deo\072 ) Tj
+/F2 10 Tf
+(Assistir \340 demonstra\347\343o no Google Drive) Tj
+/F1 10 Tf
+(\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 48 345.19 cm
+q
+0.070588 0.203922 0.282353 rg
+BT
+1 0 0 1 0 35 Tm
+/F1 10 Tf
+15 TL
+(Vers\343o atualizada em 17\05711\0572026\056 API publicada no Render e integrada ao front no Vercel\056 CRUD remoto) Tj
+T*
+(validado em 15\05711\0572026\073 funcionamento da integra\347\343o confirmado pelo grupo\056 O escopo implementado \351 o) Tj
+T*
+(consumo de \341gua por per\355odo\056) Tj
+T*
+ET
+Q
+Q
+0.031373 0.498039 0.470588 rg
+BT
+/F2 12 Tf
+14.4 TL
+ET
+BT
+1 0 0 1 48 335.19 Tm
+(Sum\341rio) Tj
+T*
+ET
+q
+1 0 0 1 48 77.19 cm
+q
+0.929412 0.960784 0.960784 rg
+n
+0 234 499 -26 re
+f*
+0 0 0 rg
+BT
+/F1 10 Tf
+12 TL
+ET
+q
+1 0 0 1 8 215 cm
+q
+0.070588 0.203922 0.282353 rg
+BT
+1 0 0 1 0 3.6 Tm
+/F1 8.4 Tf
+12 TL
+(Se\347\343o) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 433 215 cm
+q
+0.070588 0.203922 0.282353 rg
+BT
+1 0 0 1 0 3.6 Tm
+/F1 8.4 Tf
+12 TL
+(P\341gina) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 8 189 cm
+q
+0.070588 0.203922 0.282353 rg
+BT
+1 0 0 1 0 3.6 Tm
+/F1 8.4 Tf
+12 TL
+(Solu\347\343o\054 arquitetura e pacotes) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 433 189 cm
+q
+0.070588 0.203922 0.282353 rg
+BT
+1 0 0 1 0 3.6 Tm
+/F1 8.4 Tf
+12 TL
+(2) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 8 163 cm
+q
+0.070588 0.203922 0.282353 rg
+BT
+1 0 0 1 0 3.6 Tm
+/F1 8.4 Tf
+12 TL
+(Diagrama de classes) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 433 163 cm
+q
+0.070588 0.203922 0.282353 rg
+BT
+1 0 0 1 0 3.6 Tm
+/F1 8.4 Tf
+12 TL
+(3) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 8 137 cm
+q
+0.070588 0.203922 0.282353 rg
+BT
+1 0 0 1 0 3.6 Tm
+/F1 8.4 Tf
+12 TL
+(Modelo relacional e integridade) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 433 137 cm
+q
+0.070588 0.203922 0.282353 rg
+BT
+1 0 0 1 0 3.6 Tm
+/F1 8.4 Tf
+12 TL
+(4) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 8 111 cm
+q
+0.070588 0.203922 0.282353 rg
+BT
+1 0 0 1 0 3.6 Tm
+/F1 8.4 Tf
+12 TL
+(Endpoints e contrato HTTP) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 433 111 cm
+q
+0.070588 0.203922 0.282353 rg
+BT
+1 0 0 1 0 3.6 Tm
+/F1 8.4 Tf
+12 TL
+(5) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 8 85 cm
+q
+0.070588 0.203922 0.282353 rg
+BT
+1 0 0 1 0 3.6 Tm
+/F1 8.4 Tf
+12 TL
+(Exemplos JSON de entrada e sa\355da) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 433 85 cm
+q
+0.070588 0.203922 0.282353 rg
+BT
+1 0 0 1 0 3.6 Tm
+/F1 8.4 Tf
+12 TL
+(6) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 8 59 cm
+q
+0.070588 0.203922 0.282353 rg
+BT
+1 0 0 1 0 3.6 Tm
+/F1 8.4 Tf
+12 TL
+(Valida\347\365es\054 regras e erros) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 433 59 cm
+q
+0.070588 0.203922 0.282353 rg
+BT
+1 0 0 1 0 3.6 Tm
+/F1 8.4 Tf
+12 TL
+(7) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 8 33 cm
+q
+0.070588 0.203922 0.282353 rg
+BT
+1 0 0 1 0 3.6 Tm
+/F1 8.4 Tf
+12 TL
+(Execu\347\343o\054 configura\347\343o e deploy) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 433 33 cm
+q
+0.070588 0.203922 0.282353 rg
+BT
+1 0 0 1 0 3.6 Tm
+/F1 8.4 Tf
+12 TL
+(8) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 8 7 cm
+q
+0.070588 0.203922 0.282353 rg
+BT
+1 0 0 1 0 3.6 Tm
+/F1 8.4 Tf
+12 TL
+(Verifica\347\343o\054 limites e refer\352ncias) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 433 7 cm
+q
+0.070588 0.203922 0.282353 rg
+BT
+1 0 0 1 0 3.6 Tm
+/F1 8.4 Tf
+12 TL
+(9) Tj
+T*
+ET
+Q
+Q
+q
+1 J
+1 j
+0.847059 0.890196 0.901961 RG
+0.4 w
+n
+0 208 m
+499 208 l
+S
+n
+0 182 m
+499 182 l
+S
+n
+0 156 m
+499 156 l
+S
+n
+0 130 m
+499 130 l
+S
+n
+0 104 m
+499 104 l
+S
+n
+0 78 m
+499 78 l
+S
+n
+0 52 m
+499 52 l
+S
+n
+0 26 m
+499 26 l
+S
+n
+0 0 m
+499 0 l
+S
+Q
+Q
+Q
+
+endstream
 endobj
 8 0 obj
 <<
-/BaseFont /Courier /Encoding /WinAnsiEncoding /Name /F3 /Subtype /Type1 /Type /Font
+/F1 9 0 R
+/F2 10 0 R
+/F3 11 0 R
 >>
 endobj
 9 0 obj
 <<
-/Contents 23 0 R /MediaBox [ 0 0 595.28 841.89 ] /Parent 21 0 R /Resources <<
-/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
->> /Rotate 0 /Trans <<
-
->> 
-  /Type /Page
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
 >>
 endobj
 10 0 obj
 <<
-/Contents 24 0 R /MediaBox [ 0 0 595.28 841.89 ] /Parent 21 0 R /Resources <<
-/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
->> /Rotate 0 /Trans <<
-
->> 
-  /Type /Page
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
 >>
 endobj
 11 0 obj
 <<
-/Contents 25 0 R /MediaBox [ 0 0 595.28 841.89 ] /Parent 21 0 R /Resources <<
-/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
->> /Rotate 0 /Trans <<
-
->> 
-  /Type /Page
+/BaseFont /Courier
+/Encoding /WinAnsiEncoding
+/Name /F3
+/Subtype /Type1
+/Type /Font
 >>
 endobj
 12 0 obj
 <<
-/Contents 26 0 R /MediaBox [ 0 0 595.28 841.89 ] /Parent 21 0 R /Resources <<
-/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
->> /Rotate 0 /Trans <<
-
->> 
-  /Type /Page
+/Contents 13 0 R
+/MediaBox [ 0 0 595.28 841.89 ]
+/Parent 2 0 R
+/Resources <<
+/Font 8 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
 >>
 endobj
 13 0 obj
 <<
-/Contents 27 0 R /MediaBox [ 0 0 595.28 841.89 ] /Parent 21 0 R /Resources <<
-/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
->> /Rotate 0 /Trans <<
-
->> 
-  /Type /Page
+/Length 5429
 >>
+stream
+1 0 0 1 0 0 cm
+BT
+/F1 12 Tf
+14.4 TL
+ET
+0.031373 0.498039 0.470588 rg
+n
+0 831.89 595.28 10 re
+f*
+0.321569 0.388235 0.447059 rg
+BT
+/F2 9 Tf
+10.8 TL
+ET
+BT
+1 0 0 1 48 798.89 Tm
+(ECOCOMUNIDADE \057 API JAVA) Tj
+T*
+ET
+0.070588 0.203922 0.282353 rg
+BT
+/F2 23 Tf
+27.6 TL
+ET
+BT
+1 0 0 1 48 758.89 Tm
+(Solu\347\343o e arquitetura) Tj
+T*
+ET
+BT
+/F1 10 Tf
+12 TL
+ET
+0.321569 0.388235 0.447059 rg
+BT
+1 0 0 1 48 735.89 Tm
+(01 \057 Contexto\054 fluxo de dados e responsabilidades) Tj
+T*
+ET
+0.847059 0.890196 0.901961 RG
+n
+48 47 m
+547 47 l
+S
+BT
+/F1 8 Tf
+9.6 TL
+ET
+BT
+1 0 0 1 48 32 Tm
+(FIAP \174 Global Solution 2026\0572 \174 17 de novembro de 2026) Tj
+T*
+ET
+BT
+1 0 0 1 538.104 32 Tm
+(02) Tj
+T*
+ET
+q
+1 0 0 1 48 656.89 cm
+q
+0.070588 0.203922 0.282353 rg
+BT
+1 0 0 1 0 35 Tm
+/F1 10 Tf
+15 TL
+(Moradores e associa\347\365es precisam organizar dados de consumo para acompanhar o hist\363rico das resid\352ncias\056) Tj
+T*
+(A API centraliza cadastros e registros manuais de \341gua e fornece dados para uma interface web\056 O projeto se) Tj
+T*
+(relaciona aos ODS 11 e 13\054 sem comprovar economia de \341gua apenas pelo cadastro de leituras\056) Tj
+T*
+ET
+Q
+Q
+0.031373 0.498039 0.470588 rg
+BT
+/F2 12 Tf
+14.4 TL
+ET
+BT
+1 0 0 1 48 646.89 Tm
+(Fluxo de uma requisi\347\343o) Tj
+T*
+ET
+0.929412 0.960784 0.960784 rg
+n
+53 520.89 m
+542 520.89 l
+544.764 520.89 547 523.126 547 525.89 c
+547 617.89 l
+547 620.654 544.764 622.89 542 622.89 c
+53 622.89 l
+50.236 622.89 48 620.654 48 617.89 c
+48 525.89 l
+48 523.126 50.236 520.89 53 520.89 c
+h
+f*
+BT
+/F3 8.5 Tf
+10.2 TL
+ET
+0.070588 0.203922 0.282353 rg
+BT
+1 0 0 1 60 606.89 Tm
+(Front\055end \057 cliente HTTP) Tj
+T*
+ET
+BT
+1 0 0 1 60 594.89 Tm
+(    \174 HTTP \053 JSON) Tj
+T*
+ET
+BT
+1 0 0 1 60 582.89 Tm
+(Controller \055\076 DTO validado \055\076 ModelMapper \055\076 Service) Tj
+T*
+ET
+BT
+1 0 0 1 60 570.89 Tm
+(    \174 regra de negocio \053 transacao) Tj
+T*
+ET
+BT
+1 0 0 1 60 558.89 Tm
+(DAO \055\076 DataSource \057 JDBC \055\076 Oracle FIAP) Tj
+T*
+ET
+BT
+1 0 0 1 60 546.89 Tm
+(    \174) Tj
+T*
+ET
+BT
+1 0 0 1 60 534.89 Tm
+(Response DTO \055\076 JSON \053 status HTTP) Tj
+T*
+ET
+q
+1 0 0 1 48 461.89 cm
+q
+0.070588 0.203922 0.282353 rg
+BT
+1 0 0 1 0 35 Tm
+/F1 10 Tf
+15 TL
+(O controller recebe DTOs com \100Valid\056 ModelMapper converte DTOs e models\056 O service aplica regras e) Tj
+T*
+(delimita transa\347\365es\056 Cada DAO recebe DataSource no construtor e usa JdbcTemplate\054 com PreparedStatement) Tj
+T*
+(para inser\347\343o e par\342metros vinculados nas opera\347\365es\056 A resposta exp\365e DTOs\054 preservando o contrato HTTP\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 48 243.89 cm
+q
+0.929412 0.960784 0.960784 rg
+n
+0 208 499 -26 re
+f*
+0 0 0 rg
+BT
+/F1 10 Tf
+12 TL
+ET
+q
+1 0 0 1 8 189 cm
+q
+0.070588 0.203922 0.282353 rg
+BT
+1 0 0 1 0 3.6 Tm
+/F1 8.4 Tf
+12 TL
+(Pacote) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 133 189 cm
+q
+0.070588 0.203922 0.282353 rg
+BT
+1 0 0 1 0 3.6 Tm
+/F1 8.4 Tf
+12 TL
+(Responsabilidade) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 8 163 cm
+q
+0.070588 0.203922 0.282353 rg
+BT
+1 0 0 1 0 3.6 Tm
+/F1 8.4 Tf
+12 TL
+(model) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 133 163 cm
+q
+0.070588 0.203922 0.282353 rg
+BT
+1 0 0 1 0 3.6 Tm
+/F1 8.4 Tf
+12 TL
+(Residencia\054 Medidor e Leitura\072 atributos do dom\355nio\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 8 137 cm
+q
+0.070588 0.203922 0.282353 rg
+BT
+1 0 0 1 0 3.6 Tm
+/F1 8.4 Tf
+12 TL
+(dto) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 133 137 cm
+q
+0.070588 0.203922 0.282353 rg
+BT
+1 0 0 1 0 3.6 Tm
+/F1 8.4 Tf
+12 TL
+(Requests e Responses separados para cada entidade\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 8 111 cm
+q
+0.070588 0.203922 0.282353 rg
+BT
+1 0 0 1 0 3.6 Tm
+/F1 8.4 Tf
+12 TL
+(controller) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 133 111 cm
+q
+0.070588 0.203922 0.282353 rg
+BT
+1 0 0 1 0 3.6 Tm
+/F1 8.4 Tf
+12 TL
+(Rotas REST\054 \100Valid\054 status e cabe\347alho Location\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 8 85 cm
+q
+0.070588 0.203922 0.282353 rg
+BT
+1 0 0 1 0 3.6 Tm
+/F1 8.4 Tf
+12 TL
+(service) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 133 85 cm
+q
+0.070588 0.203922 0.282353 rg
+BT
+1 0 0 1 0 3.6 Tm
+/F1 8.4 Tf
+12 TL
+(Valida\347\343o de refer\352ncias\054 regras e \100Transactional\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 8 59 cm
+q
+0.070588 0.203922 0.282353 rg
+BT
+1 0 0 1 0 3.6 Tm
+/F1 8.4 Tf
+12 TL
+(dao) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 133 59 cm
+q
+0.070588 0.203922 0.282353 rg
+BT
+1 0 0 1 0 3.6 Tm
+/F1 8.4 Tf
+12 TL
+(CRUD JDBC e consultas por relacionamento\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 8 33 cm
+q
+0.070588 0.203922 0.282353 rg
+BT
+1 0 0 1 0 3.6 Tm
+/F1 8.4 Tf
+12 TL
+(exception \057 handler) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 133 33 cm
+q
+0.070588 0.203922 0.282353 rg
+BT
+1 0 0 1 0 3.6 Tm
+/F1 8.4 Tf
+12 TL
+(Exce\347\365es pr\363prias e \100RestControllerAdvice com erro JSON\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 8 7 cm
+q
+0.070588 0.203922 0.282353 rg
+BT
+1 0 0 1 0 3.6 Tm
+/F1 8.4 Tf
+12 TL
+(config) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 133 7 cm
+q
+0.070588 0.203922 0.282353 rg
+BT
+1 0 0 1 0 3.6 Tm
+/F1 8.4 Tf
+12 TL
+(Convers\343o estrita do ModelMapper e CORS para o front\056) Tj
+T*
+ET
+Q
+Q
+q
+1 J
+1 j
+0.847059 0.890196 0.901961 RG
+0.4 w
+n
+0 182 m
+499 182 l
+S
+n
+0 156 m
+499 156 l
+S
+n
+0 130 m
+499 130 l
+S
+n
+0 104 m
+499 104 l
+S
+n
+0 78 m
+499 78 l
+S
+n
+0 52 m
+499 52 l
+S
+n
+0 26 m
+499 26 l
+S
+n
+0 0 m
+499 0 l
+S
+Q
+Q
+Q
+q
+1 0 0 1 48 197.89 cm
+q
+0.070588 0.203922 0.282353 rg
+BT
+1 0 0 1 0 20 Tm
+/F1 10 Tf
+15 TL
+(Tecnologias\072 Java 21 \050alvo de compila\347\343o\051\054 Spring Boot 3\0565\0567\054 Maven\054 Oracle JDBC\054 Bean Validation e) Tj
+T*
+(ModelMapper 3\0562\0564\056 A valida\347\343o local foi executada com JDK 25\056 H2 \351 depend\352ncia exclusiva de testes\056) Tj
+T*
+ET
+Q
+Q
+
+endstream
 endobj
 14 0 obj
 <<
-/Contents 28 0 R /MediaBox [ 0 0 595.28 841.89 ] /Parent 21 0 R /Resources <<
-/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
->> /Rotate 0 /Trans <<
-
->> 
-  /Type /Page
+/Contents 15 0 R
+/MediaBox [ 0 0 595.28 841.89 ]
+/Parent 2 0 R
+/Resources <<
+/Font 8 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
 >>
 endobj
 15 0 obj
 <<
-/Contents 29 0 R /MediaBox [ 0 0 595.28 841.89 ] /Parent 21 0 R /Resources <<
-/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
->> /Rotate 0 /Trans <<
-
->> 
-  /Type /Page
+/Length 3779
 >>
+stream
+1 0 0 1 0 0 cm
+BT
+/F1 12 Tf
+14.4 TL
+ET
+0.031373 0.498039 0.470588 rg
+n
+0 831.89 595.28 10 re
+f*
+0.321569 0.388235 0.447059 rg
+BT
+/F2 9 Tf
+10.8 TL
+ET
+BT
+1 0 0 1 48 798.89 Tm
+(ECOCOMUNIDADE \057 API JAVA) Tj
+T*
+ET
+0.070588 0.203922 0.282353 rg
+BT
+/F2 23 Tf
+27.6 TL
+ET
+BT
+1 0 0 1 48 758.89 Tm
+(Diagrama de classes) Tj
+T*
+ET
+BT
+/F1 10 Tf
+12 TL
+ET
+0.321569 0.388235 0.447059 rg
+BT
+1 0 0 1 48 735.89 Tm
+(02 \057 Models implementados e relacionamentos por identificador) Tj
+T*
+ET
+0.847059 0.890196 0.901961 RG
+n
+48 47 m
+547 47 l
+S
+BT
+/F1 8 Tf
+9.6 TL
+ET
+BT
+1 0 0 1 48 32 Tm
+(FIAP \174 Global Solution 2026\0572 \174 17 de novembro de 2026) Tj
+T*
+ET
+BT
+1 0 0 1 538.104 32 Tm
+(03) Tj
+T*
+ET
+0.929412 0.960784 0.960784 rg
+0.031373 0.498039 0.470588 RG
+n
+105 589 m
+490 589 l
+492.764 589 495 591.236 495 594 c
+495 685 l
+495 687.764 492.764 690 490 690 c
+105 690 l
+102.236 690 100 687.764 100 685 c
+100 594 l
+100 591.236 102.236 589 105 589 c
+h
+B*
+0.070588 0.203922 0.282353 rg
+BT
+/F2 10 Tf
+12 TL
+ET
+BT
+1 0 0 1 110 671 Tm
+(Residencia) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+10.2 TL
+ET
+BT
+1 0 0 1 110 652 Tm
+(id\072 Long) Tj
+T*
+ET
+BT
+1 0 0 1 110 638 Tm
+(idComunidade\072 Long) Tj
+T*
+ET
+BT
+1 0 0 1 110 624 Tm
+(codigoResidencia\072 String) Tj
+T*
+ET
+BT
+1 0 0 1 110 610 Tm
+(endereco\072 String) Tj
+T*
+ET
+BT
+1 0 0 1 110 596 Tm
+(qtdMoradores\072 Integer) Tj
+T*
+ET
+0.031373 0.498039 0.470588 RG
+n
+298 589 m
+298 545 l
+S
+n
+298 545 m
+294 551 l
+S
+n
+298 545 m
+302 551 l
+S
+BT
+/F2 8 Tf
+9.6 TL
+ET
+0.031373 0.498039 0.470588 rg
+BT
+1 0 0 1 306 567 Tm
+(1 para 0\056\056N) Tj
+T*
+ET
+0.929412 0.960784 0.960784 rg
+0.031373 0.498039 0.470588 RG
+n
+105 444 m
+490 444 l
+492.764 444 495 446.236 495 449 c
+495 540 l
+495 542.764 492.764 545 490 545 c
+105 545 l
+102.236 545 100 542.764 100 540 c
+100 449 l
+100 446.236 102.236 444 105 444 c
+h
+B*
+0.070588 0.203922 0.282353 rg
+BT
+/F2 10 Tf
+12 TL
+ET
+BT
+1 0 0 1 110 526 Tm
+(Medidor) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+10.2 TL
+ET
+BT
+1 0 0 1 110 507 Tm
+(id\072 Long) Tj
+T*
+ET
+BT
+1 0 0 1 110 493 Tm
+(idResidencia\072 Long) Tj
+T*
+ET
+BT
+1 0 0 1 110 479 Tm
+(numeroSerie\072 String) Tj
+T*
+ET
+BT
+1 0 0 1 110 465 Tm
+(dataInstalacao\072 LocalDate) Tj
+T*
+ET
+BT
+1 0 0 1 110 451 Tm
+(status\072 String) Tj
+T*
+ET
+0.031373 0.498039 0.470588 RG
+n
+298 444 m
+298 400 l
+S
+n
+298 400 m
+294 406 l
+S
+n
+298 400 m
+302 406 l
+S
+BT
+/F2 8 Tf
+9.6 TL
+ET
+0.031373 0.498039 0.470588 rg
+BT
+1 0 0 1 306 422 Tm
+(1 para 0\056\056N) Tj
+T*
+ET
+0.929412 0.960784 0.960784 rg
+0.031373 0.498039 0.470588 RG
+n
+105 313 m
+490 313 l
+492.764 313 495 315.236 495 318 c
+495 395 l
+495 397.764 492.764 400 490 400 c
+105 400 l
+102.236 400 100 397.764 100 395 c
+100 318 l
+100 315.236 102.236 313 105 313 c
+h
+B*
+0.070588 0.203922 0.282353 rg
+BT
+/F2 10 Tf
+12 TL
+ET
+BT
+1 0 0 1 110 381 Tm
+(Leitura) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+10.2 TL
+ET
+BT
+1 0 0 1 110 362 Tm
+(id\072 Long) Tj
+T*
+ET
+BT
+1 0 0 1 110 348 Tm
+(idMedidor\072 Long) Tj
+T*
+ET
+BT
+1 0 0 1 110 334 Tm
+(dataHoraLeitura\072 LocalDateTime) Tj
+T*
+ET
+BT
+1 0 0 1 110 320 Tm
+(consumoLitros\072 BigDecimal) Tj
+T*
+ET
+q
+1 0 0 1 48 242 cm
+q
+0.070588 0.203922 0.282353 rg
+BT
+1 0 0 1 0 35 Tm
+/F1 10 Tf
+15 TL
+(Os models t\352m getters e setters\056 Os v\355nculos s\343o representados por IDs\073 n\343o h\341 anota\347\365es JPA\054 cole\347\365es ORM) Tj
+T*
+(ou carregamento autom\341tico de entidades relacionadas\056 Uma comunidade possui resid\352ncias\073 uma resid\352ncia) Tj
+T*
+(possui medidores\073 cada medidor possui leituras\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 48 202 cm
+q
+BT
+1 0 0 1 0 20 Tm
+15 TL
+/F2 10 Tf
+0.070588 0.203922 0.282353 rg
+(Significado do valor\072) Tj
+/F1 10 Tf
+( consumoLitros representa litros consumidos no per\355odo informado\056 N\343o \351 o mostrador) Tj
+T*
+(acumulado do hidr\364metro\056 Valores podem cair entre per\355odos e a API n\343o calcula a diferen\347a entre registros\056) Tj
+T*
+ET
+Q
+Q
+
+endstream
 endobj
 16 0 obj
 <<
-/A <<
-/S /URI /Type /Action /URI (https://docs.spring.io/spring-boot/3.5/system-requirements.html)
->> /Border [ 0 0 0 ] /Rect [ 136.533 207.94 276.087 218.74 ] /Subtype /Link /Type /Annot
+/Contents 17 0 R
+/MediaBox [ 0 0 595.28 841.89 ]
+/Parent 2 0 R
+/Resources <<
+/Font 8 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
 >>
 endobj
 17 0 obj
 <<
-/A <<
-/S /URI /Type /Action /URI (https://docs.oracle.com/en/database/oracle/oracle-database/26/jjdbc/data-sources-and-URLs.html)
->> /Border [ 0 0 0 ] /Rect [ 281.091 207.94 438.636 218.74 ] /Subtype /Link /Type /Annot
+/Length 7223
 >>
+stream
+1 0 0 1 0 0 cm
+BT
+/F1 12 Tf
+14.4 TL
+ET
+0.031373 0.498039 0.470588 rg
+n
+0 831.89 595.28 10 re
+f*
+0.321569 0.388235 0.447059 rg
+BT
+/F2 9 Tf
+10.8 TL
+ET
+BT
+1 0 0 1 48 798.89 Tm
+(ECOCOMUNIDADE \057 API JAVA) Tj
+T*
+ET
+0.070588 0.203922 0.282353 rg
+BT
+/F2 23 Tf
+27.6 TL
+ET
+BT
+1 0 0 1 48 758.89 Tm
+(Modelo relacional) Tj
+T*
+ET
+BT
+/F1 10 Tf
+12 TL
+ET
+0.321569 0.388235 0.447059 rg
+BT
+1 0 0 1 48 735.89 Tm
+(03 \057 DER do schema Oracle e restri\347\365es principais) Tj
+T*
+ET
+0.847059 0.890196 0.901961 RG
+n
+48 47 m
+547 47 l
+S
+BT
+/F1 8 Tf
+9.6 TL
+ET
+BT
+1 0 0 1 48 32 Tm
+(FIAP \174 Global Solution 2026\0572 \174 17 de novembro de 2026) Tj
+T*
+ET
+BT
+1 0 0 1 538.104 32 Tm
+(04) Tj
+T*
+ET
+0.929412 0.960784 0.960784 rg
+0.031373 0.498039 0.470588 RG
+n
+53 589 m
+278 589 l
+280.764 589 283 591.236 283 594 c
+283 685 l
+283 687.764 280.764 690 278 690 c
+53 690 l
+50.236 690 48 687.764 48 685 c
+48 594 l
+48 591.236 50.236 589 53 589 c
+h
+B*
+0.070588 0.203922 0.282353 rg
+BT
+/F2 10 Tf
+12 TL
+ET
+BT
+1 0 0 1 58 671 Tm
+(tb\137comunidade) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+10.2 TL
+ET
+BT
+1 0 0 1 58 652 Tm
+(PK cd\137comunidade NUMBER\0504\051) Tj
+T*
+ET
+BT
+1 0 0 1 58 638 Tm
+(nm\137nome VARCHAR2\05080\051 UNIQUE) Tj
+T*
+ET
+BT
+1 0 0 1 58 624 Tm
+(nm\137municipio VARCHAR2\05060\051) Tj
+T*
+ET
+BT
+1 0 0 1 58 610 Tm
+(sg\137uf CHAR\0502\051) Tj
+T*
+ET
+BT
+1 0 0 1 58 596 Tm
+(nm\137associacao\137responsavel VARCHAR2\05080\051) Tj
+T*
+ET
+0.929412 0.960784 0.960784 rg
+0.031373 0.498039 0.470588 RG
+n
+317 603 m
+542 603 l
+544.764 603 547 605.236 547 608 c
+547 685 l
+547 687.764 544.764 690 542 690 c
+317 690 l
+314.236 690 312 687.764 312 685 c
+312 608 l
+312 605.236 314.236 603 317 603 c
+h
+B*
+0.070588 0.203922 0.282353 rg
+BT
+/F2 10 Tf
+12 TL
+ET
+BT
+1 0 0 1 322 671 Tm
+(tb\137tipo\137alerta) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+10.2 TL
+ET
+BT
+1 0 0 1 322 652 Tm
+(PK cd\137tipo\137alerta NUMBER\0503\051) Tj
+T*
+ET
+BT
+1 0 0 1 322 638 Tm
+(nm\137nome VARCHAR2\05040\051 UNIQUE) Tj
+T*
+ET
+BT
+1 0 0 1 322 624 Tm
+(ds\137descricao VARCHAR2\050150\051) Tj
+T*
+ET
+BT
+1 0 0 1 322 610 Tm
+(ds\137severidade VARCHAR2\05010\051) Tj
+T*
+ET
+0.031373 0.498039 0.470588 RG
+n
+165 589 m
+165 557 l
+S
+n
+165 557 m
+161 563 l
+S
+n
+165 557 m
+169 563 l
+S
+BT
+/F2 8 Tf
+9.6 TL
+ET
+0.031373 0.498039 0.470588 rg
+BT
+1 0 0 1 173 573 Tm
+(1\072N) Tj
+T*
+ET
+0.031373 0.498039 0.470588 RG
+n
+429 603 m
+429 557 l
+S
+n
+429 557 m
+425 563 l
+S
+n
+429 557 m
+433 563 l
+S
+BT
+/F2 8 Tf
+9.6 TL
+ET
+0.031373 0.498039 0.470588 rg
+BT
+1 0 0 1 437 580 Tm
+(1\072N) Tj
+T*
+ET
+0.929412 0.960784 0.960784 rg
+0.031373 0.498039 0.470588 RG
+n
+53 456 m
+278 456 l
+280.764 456 283 458.236 283 461 c
+283 552 l
+283 554.764 280.764 557 278 557 c
+53 557 l
+50.236 557 48 554.764 48 552 c
+48 461 l
+48 458.236 50.236 456 53 456 c
+h
+B*
+0.070588 0.203922 0.282353 rg
+BT
+/F2 10 Tf
+12 TL
+ET
+BT
+1 0 0 1 58 538 Tm
+(tb\137residencia) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+10.2 TL
+ET
+BT
+1 0 0 1 58 519 Tm
+(PK cd\137residencia NUMBER\0506\051) Tj
+T*
+ET
+BT
+1 0 0 1 58 505 Tm
+(FK cd\137comunidade NUMBER\0504\051) Tj
+T*
+ET
+BT
+1 0 0 1 58 491 Tm
+(ds\137codigo\137residencia VARCHAR2\05015\051 UQ) Tj
+T*
+ET
+BT
+1 0 0 1 58 477 Tm
+(ds\137endereco VARCHAR2\050120\051) Tj
+T*
+ET
+BT
+1 0 0 1 58 463 Tm
+(qt\137moradores NUMBER\0502\051) Tj
+T*
+ET
+0.929412 0.960784 0.960784 rg
+0.031373 0.498039 0.470588 RG
+n
+317 456 m
+542 456 l
+544.764 456 547 458.236 547 461 c
+547 552 l
+547 554.764 544.764 557 542 557 c
+317 557 l
+314.236 557 312 554.764 312 552 c
+312 461 l
+312 458.236 314.236 456 317 456 c
+h
+B*
+0.070588 0.203922 0.282353 rg
+BT
+/F2 10 Tf
+12 TL
+ET
+BT
+1 0 0 1 322 538 Tm
+(tb\137alerta) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+10.2 TL
+ET
+BT
+1 0 0 1 322 519 Tm
+(PK cd\137alerta NUMBER\0506\051) Tj
+T*
+ET
+BT
+1 0 0 1 322 505 Tm
+(FK cd\137tipo\137alerta NUMBER\0503\051) Tj
+T*
+ET
+BT
+1 0 0 1 322 491 Tm
+(dt\137geracao DATE) Tj
+T*
+ET
+BT
+1 0 0 1 322 477 Tm
+(ds\137status VARCHAR2\05012\051) Tj
+T*
+ET
+BT
+1 0 0 1 322 463 Tm
+(ds\137descricao VARCHAR2\050200\051) Tj
+T*
+ET
+0.031373 0.498039 0.470588 RG
+n
+165 456 m
+165 424 l
+S
+n
+165 424 m
+161 430 l
+S
+n
+165 424 m
+169 430 l
+S
+BT
+/F2 8 Tf
+9.6 TL
+ET
+0.031373 0.498039 0.470588 rg
+BT
+1 0 0 1 173 440 Tm
+(1\072N) Tj
+T*
+ET
+0.031373 0.498039 0.470588 RG
+n
+429 456 m
+429 291 l
+S
+n
+429 291 m
+425 297 l
+S
+n
+429 291 m
+433 297 l
+S
+BT
+/F2 8 Tf
+9.6 TL
+ET
+0.031373 0.498039 0.470588 rg
+BT
+1 0 0 1 437 373.5 Tm
+(1\072N) Tj
+T*
+ET
+0.929412 0.960784 0.960784 rg
+0.031373 0.498039 0.470588 RG
+n
+53 323 m
+278 323 l
+280.764 323 283 325.236 283 328 c
+283 419 l
+283 421.764 280.764 424 278 424 c
+53 424 l
+50.236 424 48 421.764 48 419 c
+48 328 l
+48 325.236 50.236 323 53 323 c
+h
+B*
+0.070588 0.203922 0.282353 rg
+BT
+/F2 10 Tf
+12 TL
+ET
+BT
+1 0 0 1 58 405 Tm
+(tb\137medidor) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+10.2 TL
+ET
+BT
+1 0 0 1 58 386 Tm
+(PK cd\137medidor NUMBER\0506\051) Tj
+T*
+ET
+BT
+1 0 0 1 58 372 Tm
+(FK cd\137residencia NUMBER\0506\051) Tj
+T*
+ET
+BT
+1 0 0 1 58 358 Tm
+(ds\137numero\137serie VARCHAR2\05020\051 UQ) Tj
+T*
+ET
+BT
+1 0 0 1 58 344 Tm
+(dt\137instalacao DATE) Tj
+T*
+ET
+BT
+1 0 0 1 58 330 Tm
+(ds\137status VARCHAR2\05010\051) Tj
+T*
+ET
+0.031373 0.498039 0.470588 RG
+n
+165 323 m
+165 291 l
+S
+n
+165 291 m
+161 297 l
+S
+n
+165 291 m
+169 297 l
+S
+BT
+/F2 8 Tf
+9.6 TL
+ET
+0.031373 0.498039 0.470588 rg
+BT
+1 0 0 1 173 307 Tm
+(1\072N) Tj
+T*
+ET
+0.929412 0.960784 0.960784 rg
+0.031373 0.498039 0.470588 RG
+n
+53 204 m
+278 204 l
+280.764 204 283 206.236 283 209 c
+283 286 l
+283 288.764 280.764 291 278 291 c
+53 291 l
+50.236 291 48 288.764 48 286 c
+48 209 l
+48 206.236 50.236 204 53 204 c
+h
+B*
+0.070588 0.203922 0.282353 rg
+BT
+/F2 10 Tf
+12 TL
+ET
+BT
+1 0 0 1 58 272 Tm
+(tb\137leitura) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+10.2 TL
+ET
+BT
+1 0 0 1 58 253 Tm
+(PK cd\137leitura NUMBER\0508\051) Tj
+T*
+ET
+BT
+1 0 0 1 58 239 Tm
+(FK cd\137medidor NUMBER\0506\051) Tj
+T*
+ET
+BT
+1 0 0 1 58 225 Tm
+(dt\137leitura DATE) Tj
+T*
+ET
+BT
+1 0 0 1 58 211 Tm
+(vl\137consumo\137litros NUMBER\0508\0542\051) Tj
+T*
+ET
+0.929412 0.960784 0.960784 rg
+0.031373 0.498039 0.470588 RG
+n
+317 232 m
+542 232 l
+544.764 232 547 234.236 547 237 c
+547 286 l
+547 288.764 544.764 291 542 291 c
+317 291 l
+314.236 291 312 288.764 312 286 c
+312 237 l
+312 234.236 314.236 232 317 232 c
+h
+B*
+0.070588 0.203922 0.282353 rg
+BT
+/F2 10 Tf
+12 TL
+ET
+BT
+1 0 0 1 322 272 Tm
+(tb\137alerta\137leitura) Tj
+T*
+ET
+BT
+/F1 8.5 Tf
+10.2 TL
+ET
+BT
+1 0 0 1 322 253 Tm
+(PK\057FK cd\137alerta NUMBER\0506\051) Tj
+T*
+ET
+BT
+1 0 0 1 322 239 Tm
+(PK\057FK cd\137leitura NUMBER\0508\051) Tj
+T*
+ET
+0.031373 0.498039 0.470588 RG
+n
+283 245 m
+312 245 l
+S
+BT
+/F2 8 Tf
+9.6 TL
+ET
+BT
+1 0 0 1 288 255 Tm
+(1\072N) Tj
+T*
+ET
+q
+1 0 0 1 48 154.9 cm
+q
+0.070588 0.203922 0.282353 rg
+BT
+1 0 0 1 0 17.1 Tm
+/F1 9 Tf
+13.05 TL
+(PK \075 chave prim\341ria\073 FK \075 chave estrangeira\073 UQ \075 unicidade\056 Todos os campos s\343o NOT NULL\056 A associativa resolve o) Tj
+T*
+(N\072N entre alertas e leituras\056 As tabelas de comunidade e alertas est\343o no banco\054 mas ainda n\343o t\352m endpoints pr\363prios\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 48 118.8 cm
+q
+BT
+1 0 0 1 0 17.1 Tm
+13.05 TL
+/F1 9 Tf
+0.070588 0.203922 0.282353 rg
+(CHECK\072 moradores \076 0\073 consumo \076) Tj
+(\075 0\073 status e severidade restritos\056 UNIQUE adicional\072 medidor \053 instante da leitura\056 Seis) Tj
+T*
+(sequences geram IDs\073 n\343o h\341 exclus\343o em cascata\056 O script inclui \355ndices para refer\352ncias e 60 registros demonstrativos\056) Tj
+T*
+ET
+Q
+Q
+
+endstream
 endobj
 18 0 obj
 <<
-/Annots [ 16 0 R 17 0 R ] /Contents 30 0 R /MediaBox [ 0 0 595.28 841.89 ] /Parent 21 0 R /Resources <<
-/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
->> /Rotate 0 
-  /Trans <<
-
->> /Type /Page
+/Contents 19 0 R
+/MediaBox [ 0 0 595.28 841.89 ]
+/Parent 2 0 R
+/Resources <<
+/Font 8 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
 >>
 endobj
 19 0 obj
 <<
-/PageMode /UseNone /Pages 21 0 R /Type /Catalog
+/Length 9161
 >>
+stream
+1 0 0 1 0 0 cm
+BT
+/F1 12 Tf
+14.4 TL
+ET
+0.031373 0.498039 0.470588 rg
+n
+0 831.89 595.28 10 re
+f*
+0.321569 0.388235 0.447059 rg
+BT
+/F2 9 Tf
+10.8 TL
+ET
+BT
+1 0 0 1 48 798.89 Tm
+(ECOCOMUNIDADE \057 API JAVA) Tj
+T*
+ET
+0.070588 0.203922 0.282353 rg
+BT
+/F2 23 Tf
+27.6 TL
+ET
+BT
+1 0 0 1 48 758.89 Tm
+(Endpoints REST) Tj
+T*
+ET
+BT
+/F1 10 Tf
+12 TL
+ET
+0.321569 0.388235 0.447059 rg
+BT
+1 0 0 1 48 735.89 Tm
+(04 \057 Base local\072 http\072\057\057localhost\0728080\057api) Tj
+T*
+ET
+0.847059 0.890196 0.901961 RG
+n
+48 47 m
+547 47 l
+S
+BT
+/F1 8 Tf
+9.6 TL
+ET
+BT
+1 0 0 1 48 32 Tm
+(FIAP \174 Global Solution 2026\0572 \174 17 de novembro de 2026) Tj
+T*
+ET
+BT
+1 0 0 1 538.104 32 Tm
+(05) Tj
+T*
+ET
+q
+1 0 0 1 48 181.89 cm
+q
+0.929412 0.960784 0.960784 rg
+n
+0 520 499 -26 re
+f*
+0 0 0 rg
+BT
+/F1 10 Tf
+12 TL
+ET
+q
+1 0 0 1 8 501 cm
+q
+0.070588 0.203922 0.282353 rg
+BT
+1 0 0 1 0 3.6 Tm
+/F1 8.4 Tf
+12 TL
+(M\351todo) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 73 501 cm
+q
+0.070588 0.203922 0.282353 rg
+BT
+1 0 0 1 0 3.6 Tm
+/F1 8.4 Tf
+12 TL
+(Rota) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 383 501 cm
+q
+0.070588 0.203922 0.282353 rg
+BT
+1 0 0 1 0 3.6 Tm
+/F1 8.4 Tf
+12 TL
+(Sucesso) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 8 475 cm
+q
+0.070588 0.203922 0.282353 rg
+BT
+1 0 0 1 0 3.6 Tm
+/F1 8.4 Tf
+12 TL
+(POST) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 73 475 cm
+q
+0.070588 0.203922 0.282353 rg
+BT
+1 0 0 1 0 3.6 Tm
+/F1 8.4 Tf
+12 TL
+(\057residencias) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 383 475 cm
+q
+0.070588 0.203922 0.282353 rg
+BT
+1 0 0 1 0 3.6 Tm
+/F1 8.4 Tf
+12 TL
+(201 \053 Location) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 8 449 cm
+q
+0.070588 0.203922 0.282353 rg
+BT
+1 0 0 1 0 3.6 Tm
+/F1 8.4 Tf
+12 TL
+(GET) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 73 449 cm
+q
+0.070588 0.203922 0.282353 rg
+BT
+1 0 0 1 0 3.6 Tm
+/F1 8.4 Tf
+12 TL
+(\057residencias) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 383 449 cm
+q
+0.070588 0.203922 0.282353 rg
+BT
+1 0 0 1 0 3.6 Tm
+/F1 8.4 Tf
+12 TL
+(200 \050lista\051) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 8 423 cm
+q
+0.070588 0.203922 0.282353 rg
+BT
+1 0 0 1 0 3.6 Tm
+/F1 8.4 Tf
+12 TL
+(GET) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 73 423 cm
+q
+0.070588 0.203922 0.282353 rg
+BT
+1 0 0 1 0 3.6 Tm
+/F1 8.4 Tf
+12 TL
+(\057residencias\057\173id\175) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 383 423 cm
+q
+0.070588 0.203922 0.282353 rg
+BT
+1 0 0 1 0 3.6 Tm
+/F1 8.4 Tf
+12 TL
+(200) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 8 397 cm
+q
+0.070588 0.203922 0.282353 rg
+BT
+1 0 0 1 0 3.6 Tm
+/F1 8.4 Tf
+12 TL
+(PUT) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 73 397 cm
+q
+0.070588 0.203922 0.282353 rg
+BT
+1 0 0 1 0 3.6 Tm
+/F1 8.4 Tf
+12 TL
+(\057residencias\057\173id\175) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 383 397 cm
+q
+0.070588 0.203922 0.282353 rg
+BT
+1 0 0 1 0 3.6 Tm
+/F1 8.4 Tf
+12 TL
+(200) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 8 371 cm
+q
+0.070588 0.203922 0.282353 rg
+BT
+1 0 0 1 0 3.6 Tm
+/F1 8.4 Tf
+12 TL
+(DELETE) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 73 371 cm
+q
+0.070588 0.203922 0.282353 rg
+BT
+1 0 0 1 0 3.6 Tm
+/F1 8.4 Tf
+12 TL
+(\057residencias\057\173id\175) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 383 371 cm
+q
+0.070588 0.203922 0.282353 rg
+BT
+1 0 0 1 0 3.6 Tm
+/F1 8.4 Tf
+12 TL
+(204) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 8 345 cm
+q
+0.070588 0.203922 0.282353 rg
+BT
+1 0 0 1 0 3.6 Tm
+/F1 8.4 Tf
+12 TL
+(POST) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 73 345 cm
+q
+0.070588 0.203922 0.282353 rg
+BT
+1 0 0 1 0 3.6 Tm
+/F1 8.4 Tf
+12 TL
+(\057medidores) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 383 345 cm
+q
+0.070588 0.203922 0.282353 rg
+BT
+1 0 0 1 0 3.6 Tm
+/F1 8.4 Tf
+12 TL
+(201 \053 Location) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 8 319 cm
+q
+0.070588 0.203922 0.282353 rg
+BT
+1 0 0 1 0 3.6 Tm
+/F1 8.4 Tf
+12 TL
+(GET) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 73 319 cm
+q
+0.070588 0.203922 0.282353 rg
+BT
+1 0 0 1 0 3.6 Tm
+/F1 8.4 Tf
+12 TL
+(\057medidores) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 383 319 cm
+q
+0.070588 0.203922 0.282353 rg
+BT
+1 0 0 1 0 3.6 Tm
+/F1 8.4 Tf
+12 TL
+(200 \050lista\051) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 8 293 cm
+q
+0.070588 0.203922 0.282353 rg
+BT
+1 0 0 1 0 3.6 Tm
+/F1 8.4 Tf
+12 TL
+(GET) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 73 293 cm
+q
+0.070588 0.203922 0.282353 rg
+BT
+1 0 0 1 0 3.6 Tm
+/F1 8.4 Tf
+12 TL
+(\057medidores\057\173id\175) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 383 293 cm
+q
+0.070588 0.203922 0.282353 rg
+BT
+1 0 0 1 0 3.6 Tm
+/F1 8.4 Tf
+12 TL
+(200) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 8 267 cm
+q
+0.070588 0.203922 0.282353 rg
+BT
+1 0 0 1 0 3.6 Tm
+/F1 8.4 Tf
+12 TL
+(PUT) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 73 267 cm
+q
+0.070588 0.203922 0.282353 rg
+BT
+1 0 0 1 0 3.6 Tm
+/F1 8.4 Tf
+12 TL
+(\057medidores\057\173id\175) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 383 267 cm
+q
+0.070588 0.203922 0.282353 rg
+BT
+1 0 0 1 0 3.6 Tm
+/F1 8.4 Tf
+12 TL
+(200) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 8 241 cm
+q
+0.070588 0.203922 0.282353 rg
+BT
+1 0 0 1 0 3.6 Tm
+/F1 8.4 Tf
+12 TL
+(DELETE) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 73 241 cm
+q
+0.070588 0.203922 0.282353 rg
+BT
+1 0 0 1 0 3.6 Tm
+/F1 8.4 Tf
+12 TL
+(\057medidores\057\173id\175) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 383 241 cm
+q
+0.070588 0.203922 0.282353 rg
+BT
+1 0 0 1 0 3.6 Tm
+/F1 8.4 Tf
+12 TL
+(204) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 8 215 cm
+q
+0.070588 0.203922 0.282353 rg
+BT
+1 0 0 1 0 3.6 Tm
+/F1 8.4 Tf
+12 TL
+(POST) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 73 215 cm
+q
+0.070588 0.203922 0.282353 rg
+BT
+1 0 0 1 0 3.6 Tm
+/F1 8.4 Tf
+12 TL
+(\057leituras) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 383 215 cm
+q
+0.070588 0.203922 0.282353 rg
+BT
+1 0 0 1 0 3.6 Tm
+/F1 8.4 Tf
+12 TL
+(201 \053 Location) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 8 189 cm
+q
+0.070588 0.203922 0.282353 rg
+BT
+1 0 0 1 0 3.6 Tm
+/F1 8.4 Tf
+12 TL
+(GET) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 73 189 cm
+q
+0.070588 0.203922 0.282353 rg
+BT
+1 0 0 1 0 3.6 Tm
+/F1 8.4 Tf
+12 TL
+(\057leituras) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 383 189 cm
+q
+0.070588 0.203922 0.282353 rg
+BT
+1 0 0 1 0 3.6 Tm
+/F1 8.4 Tf
+12 TL
+(200 \050lista\051) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 8 163 cm
+q
+0.070588 0.203922 0.282353 rg
+BT
+1 0 0 1 0 3.6 Tm
+/F1 8.4 Tf
+12 TL
+(GET) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 73 163 cm
+q
+0.070588 0.203922 0.282353 rg
+BT
+1 0 0 1 0 3.6 Tm
+/F1 8.4 Tf
+12 TL
+(\057leituras\057\173id\175) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 383 163 cm
+q
+0.070588 0.203922 0.282353 rg
+BT
+1 0 0 1 0 3.6 Tm
+/F1 8.4 Tf
+12 TL
+(200) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 8 137 cm
+q
+0.070588 0.203922 0.282353 rg
+BT
+1 0 0 1 0 3.6 Tm
+/F1 8.4 Tf
+12 TL
+(PUT) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 73 137 cm
+q
+0.070588 0.203922 0.282353 rg
+BT
+1 0 0 1 0 3.6 Tm
+/F1 8.4 Tf
+12 TL
+(\057leituras\057\173id\175) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 383 137 cm
+q
+0.070588 0.203922 0.282353 rg
+BT
+1 0 0 1 0 3.6 Tm
+/F1 8.4 Tf
+12 TL
+(200) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 8 111 cm
+q
+0.070588 0.203922 0.282353 rg
+BT
+1 0 0 1 0 3.6 Tm
+/F1 8.4 Tf
+12 TL
+(DELETE) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 73 111 cm
+q
+0.070588 0.203922 0.282353 rg
+BT
+1 0 0 1 0 3.6 Tm
+/F1 8.4 Tf
+12 TL
+(\057leituras\057\173id\175) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 383 111 cm
+q
+0.070588 0.203922 0.282353 rg
+BT
+1 0 0 1 0 3.6 Tm
+/F1 8.4 Tf
+12 TL
+(204) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 8 85 cm
+q
+0.070588 0.203922 0.282353 rg
+BT
+1 0 0 1 0 3.6 Tm
+/F1 8.4 Tf
+12 TL
+(GET) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 73 85 cm
+q
+0.070588 0.203922 0.282353 rg
+BT
+1 0 0 1 0 3.6 Tm
+/F1 8.4 Tf
+12 TL
+(\057residencias\057\173id\175\057medidores) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 383 85 cm
+q
+0.070588 0.203922 0.282353 rg
+BT
+1 0 0 1 0 3.6 Tm
+/F1 8.4 Tf
+12 TL
+(200 \050lista\051) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 8 59 cm
+q
+0.070588 0.203922 0.282353 rg
+BT
+1 0 0 1 0 3.6 Tm
+/F1 8.4 Tf
+12 TL
+(POST) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 73 59 cm
+q
+0.070588 0.203922 0.282353 rg
+BT
+1 0 0 1 0 3.6 Tm
+/F1 8.4 Tf
+12 TL
+(\057residencias\057\173id\175\057medidores) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 383 59 cm
+q
+0.070588 0.203922 0.282353 rg
+BT
+1 0 0 1 0 3.6 Tm
+/F1 8.4 Tf
+12 TL
+(201 \053 Location) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 8 33 cm
+q
+0.070588 0.203922 0.282353 rg
+BT
+1 0 0 1 0 3.6 Tm
+/F1 8.4 Tf
+12 TL
+(GET) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 73 33 cm
+q
+0.070588 0.203922 0.282353 rg
+BT
+1 0 0 1 0 3.6 Tm
+/F1 8.4 Tf
+12 TL
+(\057medidores\057\173id\175\057leituras) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 383 33 cm
+q
+0.070588 0.203922 0.282353 rg
+BT
+1 0 0 1 0 3.6 Tm
+/F1 8.4 Tf
+12 TL
+(200 \050lista\051) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 8 7 cm
+q
+0.070588 0.203922 0.282353 rg
+BT
+1 0 0 1 0 3.6 Tm
+/F1 8.4 Tf
+12 TL
+(POST) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 73 7 cm
+q
+0.070588 0.203922 0.282353 rg
+BT
+1 0 0 1 0 3.6 Tm
+/F1 8.4 Tf
+12 TL
+(\057medidores\057\173id\175\057leituras) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 383 7 cm
+q
+0.070588 0.203922 0.282353 rg
+BT
+1 0 0 1 0 3.6 Tm
+/F1 8.4 Tf
+12 TL
+(201 \053 Location) Tj
+T*
+ET
+Q
+Q
+q
+1 J
+1 j
+0.847059 0.890196 0.901961 RG
+0.4 w
+n
+0 494 m
+499 494 l
+S
+n
+0 468 m
+499 468 l
+S
+n
+0 442 m
+499 442 l
+S
+n
+0 416 m
+499 416 l
+S
+n
+0 390 m
+499 390 l
+S
+n
+0 364 m
+499 364 l
+S
+n
+0 338 m
+499 338 l
+S
+n
+0 312 m
+499 312 l
+S
+n
+0 286 m
+499 286 l
+S
+n
+0 260 m
+499 260 l
+S
+n
+0 234 m
+499 234 l
+S
+n
+0 208 m
+499 208 l
+S
+n
+0 182 m
+499 182 l
+S
+n
+0 156 m
+499 156 l
+S
+n
+0 130 m
+499 130 l
+S
+n
+0 104 m
+499 104 l
+S
+n
+0 78 m
+499 78 l
+S
+n
+0 52 m
+499 52 l
+S
+n
+0 26 m
+499 26 l
+S
+n
+0 0 m
+499 0 l
+S
+Q
+Q
+Q
+q
+1 0 0 1 48 126.74 cm
+q
+0.070588 0.203922 0.282353 rg
+BT
+1 0 0 1 0 30.15 Tm
+/F1 9 Tf
+13.05 TL
+(POST cria um registro e devolve seu DTO com id\056 Location aponta para o recurso criado\056 PUT exige todos os campos) Tj
+T*
+(edit\341veis\056 DELETE tem corpo vazio\056 GET de cole\347\343o devolve array\073 listas gerais s\343o ordenadas por ID e n\343o possuem) Tj
+T*
+(pagina\347\343o\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 48 77.59 cm
+q
+0.070588 0.203922 0.282353 rg
+BT
+1 0 0 1 0 30.15 Tm
+/F1 9 Tf
+13.05 TL
+(Nas rotas aninhadas de POST\054 idResidencia ou idMedidor deve aparecer no JSON e coincidir com o ID da rota\056 Pai) Tj
+T*
+(inexistente retorna 404\073 diverg\352ncia de IDs retorna 409\056 Erros comuns\072 400\054 404\054 405 e 409\056 Consultas de listas podem) Tj
+T*
+(retornar 503 se o banco estiver indispon\355vel\056) Tj
+T*
+ET
+Q
+Q
+
+endstream
 endobj
 20 0 obj
 <<
-/Author (Equipe EcoComunidade - FIAP) /CreationDate (D:20261116232548-03'00') /Creator (anonymous) /Keywords () /ModDate (D:20261116232548-03'00') /Producer (ReportLab PDF Library - \(opensource\)) 
-  /Subject (unspecified) /Title (EcoComunidade | Documenta\347\343o t\351cnica da API Java) /Trapped /False
+/Contents 21 0 R
+/MediaBox [ 0 0 595.28 841.89 ]
+/Parent 2 0 R
+/Resources <<
+/Font 8 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
 >>
 endobj
 21 0 obj
 <<
-/Count 9 /Kids [ 7 0 R 9 0 R 10 0 R 11 0 R 12 0 R 13 0 R 14 0 R 15 0 R 18 0 R ] /Type /Pages
+/Length 4622
 >>
+stream
+1 0 0 1 0 0 cm
+BT
+/F1 12 Tf
+14.4 TL
+ET
+0.031373 0.498039 0.470588 rg
+n
+0 831.89 595.28 10 re
+f*
+0.321569 0.388235 0.447059 rg
+BT
+/F2 9 Tf
+10.8 TL
+ET
+BT
+1 0 0 1 48 798.89 Tm
+(ECOCOMUNIDADE \057 API JAVA) Tj
+T*
+ET
+0.070588 0.203922 0.282353 rg
+BT
+/F2 23 Tf
+27.6 TL
+ET
+BT
+1 0 0 1 48 758.89 Tm
+(Exemplos JSON) Tj
+T*
+ET
+BT
+/F1 10 Tf
+12 TL
+ET
+0.321569 0.388235 0.447059 rg
+BT
+1 0 0 1 48 735.89 Tm
+(05 \057 Corpos de POST e PUT\073 respostas ilustrativas de sucesso) Tj
+T*
+ET
+0.847059 0.890196 0.901961 RG
+n
+48 47 m
+547 47 l
+S
+BT
+/F1 8 Tf
+9.6 TL
+ET
+BT
+1 0 0 1 48 32 Tm
+(FIAP \174 Global Solution 2026\0572 \174 17 de novembro de 2026) Tj
+T*
+ET
+BT
+1 0 0 1 538.104 32 Tm
+(06) Tj
+T*
+ET
+0.031373 0.498039 0.470588 rg
+BT
+/F2 12 Tf
+14.4 TL
+ET
+BT
+1 0 0 1 48 701.89 Tm
+(POST \057api\057residencias) Tj
+T*
+ET
+0.929412 0.960784 0.960784 rg
+n
+53 587.89 m
+542 587.89 l
+544.764 587.89 547 590.126 547 592.89 c
+547 672.89 l
+547 675.654 544.764 677.89 542 677.89 c
+53 677.89 l
+50.236 677.89 48 675.654 48 672.89 c
+48 592.89 l
+48 590.126 50.236 587.89 53 587.89 c
+h
+f*
+BT
+/F3 8.5 Tf
+10.2 TL
+ET
+0.070588 0.203922 0.282353 rg
+BT
+1 0 0 1 60 661.89 Tm
+(\173) Tj
+T*
+ET
+BT
+1 0 0 1 60 649.89 Tm
+(  \042idComunidade\042\072 1\054) Tj
+T*
+ET
+BT
+1 0 0 1 60 637.89 Tm
+(  \042codigoResidencia\042\072 \042RES\055NOVA\042\054) Tj
+T*
+ET
+BT
+1 0 0 1 60 625.89 Tm
+(  \042endereco\042\072 \042Rua das Flores\054 10\042\054) Tj
+T*
+ET
+BT
+1 0 0 1 60 613.89 Tm
+(  \042qtdMoradores\042\072 4) Tj
+T*
+ET
+BT
+1 0 0 1 60 601.89 Tm
+(\175) Tj
+T*
+ET
+q
+1 0 0 1 48 547.79 cm
+q
+BT
+1 0 0 1 0 17.1 Tm
+13.05 TL
+/F1 9 Tf
+0.070588 0.203922 0.282353 rg
+(Resposta 201\072 mesmo objeto acima\054 acrescido de ) Tj
+/F2 9 Tf
+(\042id\042\072 1001) Tj
+/F1 9 Tf
+(\056 Cabe\347alho ) Tj
+/F2 9 Tf
+(Location\072 \057api\057residencias\0571001) Tj
+/F1 9 Tf
+(\056 GET por ID e) Tj
+T*
+(PUT devolvem esse mesmo formato de Response DTO\056) Tj
+T*
+ET
+Q
+Q
+0.031373 0.498039 0.470588 rg
+BT
+/F2 12 Tf
+14.4 TL
+ET
+BT
+1 0 0 1 48 537.79 Tm
+(POST \057api\057medidores) Tj
+T*
+ET
+0.929412 0.960784 0.960784 rg
+n
+53 423.79 m
+542 423.79 l
+544.764 423.79 547 426.026 547 428.79 c
+547 508.79 l
+547 511.554 544.764 513.79 542 513.79 c
+53 513.79 l
+50.236 513.79 48 511.554 48 508.79 c
+48 428.79 l
+48 426.026 50.236 423.79 53 423.79 c
+h
+f*
+BT
+/F3 8.5 Tf
+10.2 TL
+ET
+0.070588 0.203922 0.282353 rg
+BT
+1 0 0 1 60 497.79 Tm
+(\173) Tj
+T*
+ET
+BT
+1 0 0 1 60 485.79 Tm
+(  \042idResidencia\042\072 1\054) Tj
+T*
+ET
+BT
+1 0 0 1 60 473.79 Tm
+(  \042numeroSerie\042\072 \042HID\055NOVO\055001\042\054) Tj
+T*
+ET
+BT
+1 0 0 1 60 461.79 Tm
+(  \042dataInstalacao\042\072 \0422026\05501\05501\042\054) Tj
+T*
+ET
+BT
+1 0 0 1 60 449.79 Tm
+(  \042status\042\072 \042ATIVO\042) Tj
+T*
+ET
+BT
+1 0 0 1 60 437.79 Tm
+(\175) Tj
+T*
+ET
+q
+1 0 0 1 48 383.69 cm
+q
+BT
+1 0 0 1 0 17.1 Tm
+13.05 TL
+/F1 9 Tf
+0.070588 0.203922 0.282353 rg
+(Resposta 201\072 mesmo objeto acima\054 acrescido de ) Tj
+/F2 9 Tf
+(\042id\042\072 1001) Tj
+/F1 9 Tf
+(\056 Cabe\347alho ) Tj
+/F2 9 Tf
+(Location\072 \057api\057medidores\0571001) Tj
+/F1 9 Tf
+(\056 GET por ID e) Tj
+T*
+(PUT devolvem esse mesmo formato de Response DTO\056) Tj
+T*
+ET
+Q
+Q
+0.031373 0.498039 0.470588 rg
+BT
+/F2 12 Tf
+14.4 TL
+ET
+BT
+1 0 0 1 48 373.69 Tm
+(POST \057api\057leituras) Tj
+T*
+ET
+0.929412 0.960784 0.960784 rg
+n
+53 271.69 m
+542 271.69 l
+544.764 271.69 547 273.926 547 276.69 c
+547 344.69 l
+547 347.454 544.764 349.69 542 349.69 c
+53 349.69 l
+50.236 349.69 48 347.454 48 344.69 c
+48 276.69 l
+48 273.926 50.236 271.69 53 271.69 c
+h
+f*
+BT
+/F3 8.5 Tf
+10.2 TL
+ET
+0.070588 0.203922 0.282353 rg
+BT
+1 0 0 1 60 333.69 Tm
+(\173) Tj
+T*
+ET
+BT
+1 0 0 1 60 321.69 Tm
+(  \042idMedidor\042\072 1\054) Tj
+T*
+ET
+BT
+1 0 0 1 60 309.69 Tm
+(  \042dataHoraLeitura\042\072 \0422026\05511\05501T06\07200\07200\042\054) Tj
+T*
+ET
+BT
+1 0 0 1 60 297.69 Tm
+(  \042consumoLitros\042\072 580\0565) Tj
+T*
+ET
+BT
+1 0 0 1 60 285.69 Tm
+(\175) Tj
+T*
+ET
+q
+1 0 0 1 48 231.59 cm
+q
+BT
+1 0 0 1 0 17.1 Tm
+13.05 TL
+/F1 9 Tf
+0.070588 0.203922 0.282353 rg
+(Resposta 201\072 mesmo objeto acima\054 acrescido de ) Tj
+/F2 9 Tf
+(\042id\042\072 1001) Tj
+/F1 9 Tf
+(\056 Cabe\347alho ) Tj
+/F2 9 Tf
+(Location\072 \057api\057leituras\0571001) Tj
+/F1 9 Tf
+(\056 GET por ID e PUT) Tj
+T*
+(devolvem esse mesmo formato de Response DTO\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 48 176.59 cm
+q
+0.070588 0.203922 0.282353 rg
+BT
+1 0 0 1 0 35 Tm
+/F1 10 Tf
+15 TL
+(IDs e valores s\343o ilustrativos\073 o ID real vem da sequence de cada tabela\056 GET de lista devolve esses objetos) Tj
+T*
+(dentro de um array JSON\056 Datas usam ISO 8601 e dataHoraLeitura n\343o cont\351m fuso hor\341rio\056 Cabe\347alho de) Tj
+T*
+(conte\372do\072 Content\055Type\072 application\057json\056) Tj
+T*
+ET
+Q
+Q
+
+endstream
 endobj
 22 0 obj
 <<
-/Filter [ /ASCII85Decode /FlateDecode ] /Length 1879
+/Contents 23 0 R
+/MediaBox [ 0 0 595.28 841.89 ]
+/Parent 2 0 R
+/Resources <<
+/Font 8 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
 >>
-stream
-GauHL?!#c?&:N_Cb[\'d*6[ncpF.B7_R:a:.8RS^7g\J7Q7L^3GL-9`*Q`:6>&;>^V^E&AN,@C=4!Wub#e9XQju^fg:7!Xu-U9drY(?A.&'K09[QJS88n^W/nWVV%$!ni8Lgs8NUB4e^.<4>MJg><J(l/QW_tqoG6Tl'8pb[t?Ns>BFIP&rc)'BG&KB##_('i)pl]N>WPf.n%AIbKAl.,FkrML/BZcVPB`\<ff^uaWhnf',E_t$gnA*]?=Tnf4p<t.b4coe>e]Z:DOL'r0D1RU-]05>Z'r<WG&K_gu=,V;F,%PTuY>SDnEYr*Bm+X.BhLcH+Pb`mA1Gi=q?'_&(7`<IsJ"+u*^L9%=s`H>F@S1Hitk)6]Mb<lWr('l:18J6Vb/d/?7@%%YQO!'2X^[Wt07H]-$]h`rVTq:fCr*hEO-f/D)No@#oCMG"#n6@UdH[(0rYi8L##G0g%WQ4kdA#d+C!ua8>ot.2/ngKF0Q+"rsGK'@eV_6X;9e*%rD[NaY.t3$=jlkXucpoi)XF;u:QOqh%(=.1KNF6dFMMbg+"PTK1Y0?4<`=be?(bUK$W+s9cE(FP;2-GoKfoC-k'BYNq)Q&8se%W[[o86MO$@(Df4\Bp<<"@-W&ocFi6"D"='MC4l.gA%3a#JQdlK/p!V:%eS.V4T'>g?*Bc2eY%nahQs^ce>8nIcr.G*:43@XiUXY'NE?n<3uM]PtL@>r,9CWpeNX*XF\26=.Yleb.Tn*p_="o8YG\RVrnXn(tQ&M(A^7^[EPs[0a3V<6ffp@_dl-"8&`fZ/!X$WgeUj&l+S7<P-jj<R+$Q0*f%qk"$&/ETdn\CCQ1QB8cT)!562VGD0\nS][u#c_dSe)IO*gQ\9uJ>/PZP7S56U^#aq\?Q+s&&&XqN(0mhI6ENNY&Ih;o8>nDIB*jPK!DQOAh^FlK1HZ`pJ'(IGZMIK.12719(OA?$(V21H_ri+;5[ECLk98*'dsQ".3YX*T3U?<..jo1niiNdtSLs?>2B6fs4<@]G%Q^)k27^`td<pCHqY7>!cYb=_-7Q,JM$JJUlK1@NU-LtHMlMI'kop'l!'DGbE:qGnW1<hFhOgB?$C/(Wo'S8tc*+rKp.#FaqmnD\fAeS]j^.GHYYmHd:qTnMje.$\L9Zk5gutR$[/GH\K#d)RF!Zb@"K-Qs2f&"[rDfFg4BjlX>bsQ(=BW?@pmRN^F)ai?WW_HMJsl<;gt2m;VKXBV2[f)m-uK^<9Aj_b/-[UW[s4d;9`@MXjqYk!53Yp64WG.Dg-er`6JRDkr3O/CSY@Wcd@d/.IdgfpNBL4<Y$2(_9'^m1`3?2J9=gXu-GqP]@nhnl)T/j8"h-80ptF4,`ZeTWLfUr1?f/S3ZO,+H:GYtT\ZC!QBCp]k=Fnn."<GMNY\p]5AANACBU7.kl902:n(.W[)noPI9Hp`9.35o"?DXrl+S%;JVSU1uFCPXJ5jEjN)O+.Y4A+d5Y2m'6s7F#kC!c5dM^I&K=JC6@6PTK4J)F3(s7ZcN6!N(C(]8:35$=e.HJ:fWS%OSe8@t)<Q2oCIpb'En@-UB0C0ijOI<'-j;d&^,0Q;BAGXDLe[KP#P0O/G)l'TqY<Rl0\=[T&RnPNMBjh4p`4[\auR;F;*D-l-!ORY`?f"CL-@^XeHSe\;(@W5?Eqadi2qtYEGS.A,(%6sV&mIf.>*;=e__<'\AK<AB0_9CR9'f-)9s%]9*[H:#095(Tb]eQEs]-E"1YE&::?qUHh"k^'$iO*FFMs+5aUmTg,E:5[)rh`PR2&+*ds#h4,22D$4<-rI,.OMDiH$'ZWG)gh.kR8uU2EJh3/+^KJD>BCn<,:[->o0D/?$f'#Y)h&,SMfUl3Bc)!C"LSndE_S]>"1LJ%kprD"o~>endstream
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+>>
 endobj
 23 0 obj
 <<
-/Filter [ /ASCII85Decode /FlateDecode ] /Length 2065
+/Length 5898
 >>
 stream
-Gatm<>BALX'Ro4HSB&!0*F$6cpL0s&dVcBc8V-Ra0>\"SNbqYHd*,77r-je^5SD`:N1208Z?3g%rH*][2LZY;2pR5^k&gFU+c"Hm7?2#+2#ftqo:BO*N]V4%ntOKS,CBu;57C,cHTANhY%*.tq2oU#O;saST[iA"jYFjeYhBORk5*`,[mbV0!Fc`\*8:g9*)&H%8mY&@.+D_h)-pL.-DS]Mf?YPZ_soTiddZZLh$h%-?d\d5c!OO5<]X@l)D[%C%I,"-0iu8tJJGg+kI5CdR;VJ!Dh)1rOs$oVCm.b]>K%*a)fOEL$J,";XOW)NY2A0j%W!'*]G-F'm*dH?5"\uc>4SL@J?MAGOa4bZ8Xa$^'SgjeQ$gZYSL>W(HoNt]JCjkA)c0!fro/E"ZUX7W.ik1"L!,EYmlq<NkSJY<japtmS5L[h-YB^CP2V*.BI.`1'A5\iL%VKV%lI752maRZCIHqD@+gUt!I!B+g+@<!l16WPg?aN_+nQlo^,G<:<[p'?cI3pf$5k5(MJD'ZDPKUi'KdV>eiZb-iMuT1m"jWfD'iu7'dk'GCr>iL/<KLc'I<ml.Z%Rg06D#njh9ud*9%@,1$`:^Ou*r"WH\d7'QYfY<?9G/;N3K(Dg>eWTprCFEkG^MQ&E//^JSI0ECu<8C;o`&Vc[%XJI1nZ-m]V&KiK>Y0qnfYZ#qgnOlJ^$j7]`-,Ai=$4.%4"UWa@"Ls.e%LIiGIb#VgH4r&q"rOm=Zg)'[WiJ"l*Sl*ULU'4lMeA1r.l*[?[T\t^'Xhho&O'(I/X;(p4+S=A`bsaeVL<jZf1@+`WCE?A9Gh+#,RL*715'&<2"ngNt@bfECJMUsti;jl!*uetr!FqApedQ&J>*#r/[[8!jce?<@J0%aCiuZ2t@Tnb,9rbmdNiamQn"BtM2(j##[/?@N>KZbKAJ3Yj^N[-gh7O?q'$M#e$.;f"?h=*LbLMNaIcNA5$3,IBeas+&bU/rXD[KXR8^j/lBdsh1q3/hi$15621T@!bj\hn`I']eYc\1!uYrF=Z?lpnOJl3q\F0S3*9.5P+"(fJWSsHZpr:+`8eD_dHafRmd?..!mC8<4)MT;\=c%`,bm1\/$FF'Y8\oCoY\hMD0NqOaj/kTGfMl4BNi^b_A]&Lefk.2ln?pq7Rq@oAIkhS0<,3pX<=M>HKXB,_NoXdGr;,IK+/<V>7Y<mgU/N$sBOsMEX,I=:WMaeg.dP5DlfZ,/%L5ej6/L=MW[KWRujW^:SCm4EfoSo_l8q88-EX(]`%,'F1)YQk_Ap&?m@hqFt#t)SA,`fF6+^<3@&p>=q2lob^7#&Y?`lo@mqt^lOB(I!V/1XeB&@)f&;mJNC+S4B:"OAb?eh\6GO!8lPL8Z"@gW4)"p/qX+#=:6?gM*BdJgsP_:"kT^M`Vo2V)W1Qj167_9qO7)-XgFli-#6<1ASS6SRG68f-#1Yd&1*Q9U7$75?6n5>N2JO(.`]B"ZR0,LAo'9'6uX8i!4JQO`&??T(bQa85gN"U*qmY1h9^=7Wcb\NK<Kp#R,)9i2d%-k]ETNSe9<GTejK`/3uAHle/pXF)J`Q#1/;!L!XAKdg&I:AB]00Ia/P!hiV*]ZW$Y0'064OB(J/U06NVod]?``f)>;1Tm-+nCtG9:krE,G>qscjT.c)IJ4A"kj/VdNY9BmjNK)GcF5>R9oBe(F\6[LHG`9V]>l$);!JfH[Psf9#f)S"GX6D^t7O;(05o/RrT,]IXgS*@%Tl=GfIFL:GFN%RBc72thog`([,L^`LFn^K"8@MGU)@d]B6)2PD<fs8TQ1"*Jo"kib^RtDS!5Lfnj5GZM1=LR5OoFdabkaU]MbuS%g<D0<m49mfodiSWll`AW0kf_I#0PgJYm-$OE>k&Kj3.&6b)$>;h&8*H`R]8di`r@$NMLno2giZ&3HTbee"*SS,KMc7\nA,A=+-M\7IrBB8Qd7)^,<^jc?CK$2jXeUfR:=D4K")+9QBHHjMQMZ(:--ZI.!S&@u<VrV3Oa$NJ_sbl4['.s3:=W_R5R+@^sh_%[=n[^AVpNMrSn`,Wg'C.Zm0ZfnH#DrrV-Pr$_~>endstream
+1 0 0 1 0 0 cm
+BT
+/F1 12 Tf
+14.4 TL
+ET
+0.031373 0.498039 0.470588 rg
+n
+0 831.89 595.28 10 re
+f*
+0.321569 0.388235 0.447059 rg
+BT
+/F2 9 Tf
+10.8 TL
+ET
+BT
+1 0 0 1 48 798.89 Tm
+(ECOCOMUNIDADE \057 API JAVA) Tj
+T*
+ET
+0.070588 0.203922 0.282353 rg
+BT
+/F2 23 Tf
+27.6 TL
+ET
+BT
+1 0 0 1 48 758.89 Tm
+(Valida\347\365es e regras) Tj
+T*
+ET
+BT
+/F1 10 Tf
+12 TL
+ET
+0.321569 0.388235 0.447059 rg
+BT
+1 0 0 1 48 735.89 Tm
+(06 \057 Bean Validation\054 integridade e tratamento de erros) Tj
+T*
+ET
+0.847059 0.890196 0.901961 RG
+n
+48 47 m
+547 47 l
+S
+BT
+/F1 8 Tf
+9.6 TL
+ET
+BT
+1 0 0 1 48 32 Tm
+(FIAP \174 Global Solution 2026\0572 \174 17 de novembro de 2026) Tj
+T*
+ET
+BT
+1 0 0 1 538.104 32 Tm
+(07) Tj
+T*
+ET
+q
+1 0 0 1 48 561.89 cm
+q
+0.929412 0.960784 0.960784 rg
+n
+0 140 499 -26 re
+f*
+0 0 0 rg
+BT
+/F1 10 Tf
+12 TL
+ET
+q
+1 0 0 1 8 121 cm
+q
+0.070588 0.203922 0.282353 rg
+BT
+1 0 0 1 0 3.6 Tm
+/F1 8.4 Tf
+12 TL
+(DTO \057 campo) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 132 121 cm
+q
+0.070588 0.203922 0.282353 rg
+BT
+1 0 0 1 0 3.6 Tm
+/F1 8.4 Tf
+12 TL
+(Valida\347\343o aplicada) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 8 95 cm
+q
+0.070588 0.203922 0.282353 rg
+BT
+1 0 0 1 0 3.6 Tm
+/F1 8.4 Tf
+12 TL
+(ResidenciaRequest) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 132 83 cm
+q
+0.070588 0.203922 0.282353 rg
+BT
+1 0 0 1 0 15.6 Tm
+/F1 8.4 Tf
+12 TL
+(idComunidade\072 obrigat\363rio\054 positivo\054 at\351 9999\073 codigoResidencia\072 n\343o vazio\054 at\351 15 caracteres\073) Tj
+T*
+(endereco\072 n\343o vazio\054 at\351 120\073 qtdMoradores\072 obrigat\363rio\054 de 1 a 99\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 8 57 cm
+q
+0.070588 0.203922 0.282353 rg
+BT
+1 0 0 1 0 3.6 Tm
+/F1 8.4 Tf
+12 TL
+(MedidorRequest) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 132 45 cm
+q
+0.070588 0.203922 0.282353 rg
+BT
+1 0 0 1 0 15.6 Tm
+/F1 8.4 Tf
+12 TL
+(idResidencia\072 obrigat\363rio\054 positivo\054 at\351 999999\073 numeroSerie\072 n\343o vazio\054 at\351 20 caracteres\073) Tj
+T*
+(dataInstalacao\072 obrigat\363ria\054 passada ou atual\073 status\072 ATIVO\054 INATIVO ou MANUTENCAO\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 8 19 cm
+q
+0.070588 0.203922 0.282353 rg
+BT
+1 0 0 1 0 3.6 Tm
+/F1 8.4 Tf
+12 TL
+(LeituraRequest) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 132 7 cm
+q
+0.070588 0.203922 0.282353 rg
+BT
+1 0 0 1 0 15.6 Tm
+/F1 8.4 Tf
+12 TL
+(idMedidor\072 obrigat\363rio\054 positivo\054 at\351 999999\073 dataHoraLeitura\072 obrigat\363ria\054 passada ou atual\073) Tj
+T*
+(consumoLitros\072 obrigat\363rio\054 n\343o negativo\054 at\351 6 d\355gitos inteiros e 2 decimais\056) Tj
+T*
+ET
+Q
+Q
+q
+1 J
+1 j
+0.847059 0.890196 0.901961 RG
+0.4 w
+n
+0 114 m
+499 114 l
+S
+n
+0 76 m
+499 76 l
+S
+n
+0 38 m
+499 38 l
+S
+n
+0 0 m
+499 0 l
+S
+Q
+Q
+Q
+q
+1 0 0 1 48 485.89 cm
+q
+0.070588 0.203922 0.282353 rg
+BT
+1 0 0 1 0 50 Tm
+/F1 10 Tf
+15 TL
+(Somente medidor ATIVO recebe cadastro ou altera\347\343o de leitura\056 A leitura n\343o pode anteceder a instala\347\343o\056) Tj
+T*
+-0.099444 Tw
+(Medidor com hist\363rico n\343o pode mudar de resid\352ncia\054 e sua instala\347\343o n\343o pode ser movida para depois de uma) Tj
+T*
+0 Tw
+(leitura existente\056 H\341 bloqueio do medidor \050SELECT FOR UPDATE\051 nas grava\347\365es relevantes\054 dentro de) Tj
+T*
+(transa\347\343o\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 48 345.89 cm
+q
+0.929412 0.960784 0.960784 rg
+n
+0 130 499 -26 re
+f*
+0 0 0 rg
+BT
+/F1 10 Tf
+12 TL
+ET
+q
+1 0 0 1 8 111 cm
+q
+0.070588 0.203922 0.282353 rg
+BT
+1 0 0 1 0 3.6 Tm
+/F1 8.4 Tf
+12 TL
+(Status) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 108 111 cm
+q
+0.070588 0.203922 0.282353 rg
+BT
+1 0 0 1 0 3.6 Tm
+/F1 8.4 Tf
+12 TL
+(Situa\347\343o) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 8 85 cm
+q
+0.070588 0.203922 0.282353 rg
+BT
+1 0 0 1 0 3.6 Tm
+/F1 8.4 Tf
+12 TL
+(400) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 108 85 cm
+q
+0.070588 0.203922 0.282353 rg
+BT
+1 0 0 1 0 3.6 Tm
+/F1 8.4 Tf
+12 TL
+(JSON inv\341lido\054 campo inv\341lido ou par\342metro incompat\355vel\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 8 59 cm
+q
+0.070588 0.203922 0.282353 rg
+BT
+1 0 0 1 0 3.6 Tm
+/F1 8.4 Tf
+12 TL
+(404 \057 405) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 108 59 cm
+q
+0.070588 0.203922 0.282353 rg
+BT
+1 0 0 1 0 3.6 Tm
+/F1 8.4 Tf
+12 TL
+(Recurso inexistente \057 m\351todo HTTP n\343o suportado\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 8 33 cm
+q
+0.070588 0.203922 0.282353 rg
+BT
+1 0 0 1 0 3.6 Tm
+/F1 8.4 Tf
+12 TL
+(409) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 108 33 cm
+q
+0.070588 0.203922 0.282353 rg
+BT
+1 0 0 1 0 3.6 Tm
+/F1 8.4 Tf
+12 TL
+(Regra violada\054 duplicidade ou remo\347\343o com depend\352ncias\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 8 7 cm
+q
+0.070588 0.203922 0.282353 rg
+BT
+1 0 0 1 0 3.6 Tm
+/F1 8.4 Tf
+12 TL
+(415 \057 500 \057 503) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 108 7 cm
+q
+0.070588 0.203922 0.282353 rg
+BT
+1 0 0 1 0 3.6 Tm
+/F1 8.4 Tf
+12 TL
+(M\355dia n\343o suportada \057 falha interna \057 falha de acesso ao banco\056) Tj
+T*
+ET
+Q
+Q
+q
+1 J
+1 j
+0.847059 0.890196 0.901961 RG
+0.4 w
+n
+0 104 m
+499 104 l
+S
+n
+0 78 m
+499 78 l
+S
+n
+0 52 m
+499 52 l
+S
+n
+0 26 m
+499 26 l
+S
+n
+0 0 m
+499 0 l
+S
+Q
+Q
+Q
+0.929412 0.960784 0.960784 rg
+n
+53 227.89 m
+542 227.89 l
+544.764 227.89 547 230.126 547 232.89 c
+547 324.89 l
+547 327.654 544.764 329.89 542 329.89 c
+53 329.89 l
+50.236 329.89 48 327.654 48 324.89 c
+48 232.89 l
+48 230.126 50.236 227.89 53 227.89 c
+h
+f*
+BT
+/F3 8.5 Tf
+10.2 TL
+ET
+0.070588 0.203922 0.282353 rg
+BT
+1 0 0 1 60 313.89 Tm
+(\173) Tj
+T*
+ET
+BT
+1 0 0 1 60 301.89 Tm
+(  \042timestamp\042\072 \0422026\05511\05514T23\07200\07200Z\042\054) Tj
+T*
+ET
+BT
+1 0 0 1 60 289.89 Tm
+(  \042status\042\072 409\054) Tj
+T*
+ET
+BT
+1 0 0 1 60 277.89 Tm
+(  \042mensagem\042\072 \042Apenas medidores ativos podem receber leituras\056\042\054) Tj
+T*
+ET
+BT
+1 0 0 1 60 265.89 Tm
+(  \042caminho\042\072 \042\057api\057leituras\042\054) Tj
+T*
+ET
+BT
+1 0 0 1 60 253.89 Tm
+(  \042detalhes\042\072 \133\135) Tj
+T*
+ET
+BT
+1 0 0 1 60 241.89 Tm
+(\175) Tj
+T*
+ET
+q
+1 0 0 1 48 187.79 cm
+q
+0.070588 0.203922 0.282353 rg
+BT
+1 0 0 1 0 17.1 Tm
+/F1 9 Tf
+13.05 TL
+(RegraNegocioException e NaoEncontradoException representam falhas do dom\355nio\056 O handler global devolve mensagens) Tj
+T*
+(JSON sem stack trace ou SQL\056 Erros de valida\347\343o incluem o campo e a mensagem em detalhes\056) Tj
+T*
+ET
+Q
+Q
+
+endstream
 endobj
 24 0 obj
 <<
-/Filter [ /ASCII85Decode /FlateDecode ] /Length 1559
+/Contents 25 0 R
+/MediaBox [ 0 0 595.28 841.89 ]
+/Parent 2 0 R
+/Resources <<
+/Font 8 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
 >>
-stream
-Gau0C968iG&AII3m*X("(_@3AdZY=lWAA_ag.G,S+=&M56P9kN3T\;*(B>c(M.KJPN\oa)JUQuWXAWI$8c<SX!k_jWbBGD2*7hT\b!a,C%,S-g#ns;Z"XLB)QmhKm1K>.9DcRm9(*ZJ1&lbhC?9lZ+2fSY'PmEt]$r;eUi'O+OM3T@J%<3f0*L7De%^ORIOt7_/$W=TSiTTZuM`2I8T0Aj<*1sltQZ.=t$6P9m+9)Q2^L@'bp_\BN3-rY+509a*=Q>"WnN=pBDGG&nSQNSiFfV2o:c3P9bcn<.B8Lp&q4+44d4Xel2;;OZ@l\b@Ba1g/I:HI0NOj98(sHE`/*f5j4QP;0*c-hC]sSTHl'JXk_%u<IBph9H+":I.a82H#R6q>hJ+;:/oc-7`!L/Y@6ZDMR]@5e5p^Za3pI1jUCSh]7!mZ&aP2f$#;3F!7c*Ui(7l5)MB5?(u7$49=cDm:7L/@G=@PX-&@sK6,:JBYUh+,kp;Pl]f3nooNRAUt!G`l^fY@NLeAX[S#79W$c+t>+-5>+uDcd-VLC*INeXLn_2)Pjmp6`ZHVX^%Na5Kg]n-;q\J/4]]`r`6)3ea"$tkh68Y[Rb%g>?RQo>[EhLR\R1ba$qWn'lir7&eta_lW8&f]$8R%k>-sZSp]SPWO'"8c''nfHC;q+G2mb+^4P[U[g+3.G*FghD0f-kV^3$85=p5ClZ:Yk9$Hc3::nnibT:.%ZkW#8#V?c>WB=e(m>C\k>Uo]'0+cJd5F1a=`X]XQ(SM+hc'%0PPSEP.YCS"Aa'Src.:n/?;*2;7MVoUg[Y9X(AV>u)/AahI^'>I3h1JM'#T',>/R2uNi=P)Pbp$E665->7%kcqhm-cTZMrLEpc:r0M?_PfbMIQB;Yp)gQ:G."n$(3n\%,KF%hHcW-R\uW]B$(M3HISkK0P\6[Zm/M7DGKh;%Z%.SqEU`o)Lc/\8YGij$5AeF#7+K:TL`n]LO90Gbl=k3OduGI5f)gn'V]b9TbRSoUhU8OOVSNWU7CZe;=<<l'YB,@S*q)aZRo!e76m7%!^5EkA>+jEg&h]X1].'-J0Klt(h^jK;u^bg'p1ZR;A!r`<$Elc'G,<>n:0G55!$7<ppFrLFM6T`hFQHV[I28!]u/u^D)Wi>ZE8![U0gu[R>=LrF#*:rVg"Fl9-0LZBi.a5N\1NL_pgX%#fU$#QuOrGNI=0e'#6<\E)Uo0eDU*\g^#>K:5/FeV9Mp_c%MuB_]R6Zh)g"[TK>)IV",Ie.5SbpbN%KREfF5k0!<L_+HP:\Q0s"*$)8j2Blkq@)K"R`3Z:'DVB9tKBs#e%:H0M!gGo8I)2?8m)1:19=S0Hth^1Ina4hMm!c=mI_6Z,Rl?PPYCI30!A5SW,n?ZI>(+Z_Xr_Vd>oNfd-?9C3Y[[SlZfRVjt]"rR^L3H'KK"]0,e-)5U$2^#\e2b#t4VcD=524o)^.%,iHjh==SJ3'P__Cf-WW#Fi;`ckaO#pR@N_HkcodB6sgbMk/g9d5(gJa+$?e<R;oof%KP@AGQ19cs!12D5pitSb>*TaO#Fs,BY-5fka!#Lu<1&~>endstream
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+>>
 endobj
 25 0 obj
 <<
-/Filter [ /ASCII85Decode /FlateDecode ] /Length 2376
+/Length 5302
 >>
 stream
-Gatm==`<%a&:W67Qq&MU(ig-.$!KU!SMj2O-]ZV&!<Pu5*#:XVOtum\+5`JLW0LjAOX'YZm##lNlo4eNW<bigM=ghB!I2/*B<NM8(b@j<,Q\")[rB'K"X/qO_BBIn)Y+<?8LW%%qO:WGW[X!\1]s/fJ>Eg2cn"nhF;Ag2aVaL/C!*qR/Q0b_906UEBg6$f>!FtefoST/8X>Om70=q#VjF<Jmlk$i5+A18__[[pIgpnPs.2H+`BUSOC19"S"UlVd%'S`VHeoSeG:X'[LY^(oh7KghFbe/=o:kO(]_;95*/-Fsjta;fXhGT(SX5Gu9$Y_cT^6&7^8NB6b<@Ro"U\NG@p^gu8<uB(C4P'QC5_@8Y6KL$WUYQU_^LEdd$G$@rkNqJB-Mm2,lYjA)Etab;[P\BOTs*QE3ETohnss58)7J6W7oef&MjG=AFVI1+%.iJ$JOoC2:m7H14?O#-YHHM1l+KW9S^Jl6H1d3Bah:,9N!TN0lag%8#r-<c:Z;j1Lj"VV0^/00M#ZH7kDX*ZRB3D[^(Em7T,aKI4n0K^>J1o=U8PtXp$g.Tq9A&>G2(pa!k_"idE5:n_+8gUK+!QCn/K2bO"?>*rtOg>kqMjO%H-'3*reGY$&56R@!2CCo2cjKsegW1`Pua%2>XO#qeETH[1(J4;#aa4*D7%H)d.aB%;'aK"pJMVgm!qf^^9sQVRTsoY[Tuh:bO^D=WR?Xuals*:EDl\O#'1B!qUHUp3$jHg[5&&_:#I$sc`l7Gb/NZ>R9taR<)V0D6W`P",hs=P(ek$Do,fNt;M%320T86YXo@jclE-P(ofq%)O>S"J3'!@AuD'>]Ms"*ABLnlL^#dot=%GW3'V.:3mb<Mt[MHjESFpc`t(K<dChD0g?5Bg<^U%4^/Rfq6#_/l8p^M^5#RfDF%G9X&9Bq?Qj;L)j/p4;QXeEMV<]o;nXV3:]2?ap>?6Q=_WmV,=us8\'p/q&aM0$?p:(BmG?Y\p@jZ[\"X/sOSD<rMOn2QB]+JRV@^,A$/CMR?@%0Lo:-mKE5<2]?2.7SO/Es@@nSg-D((0/6n&1a#Y-lVGK*I>6o<Lr&mLSf9@a6#=%t\9;iYm35ceF[[)`[;OE!uTcD+C55\ut2Tc@c>#tl14cDjjrKcF:DA1#I3K&0Uul8d^FOGD9V,`gn7O[ZDmMls.!3o@PVe9!BlfPMs,S/KkCW`R0jOhgZ&Q\\B7HlZ9_fB6_#&PTI9UCiOf-W,QuV]ub4$#0M^<(PTu,ftSc87IL%#_$=/J<N)4F?0Js&J9rM1GZ;T@h>XdldtAu4>,J8&W_^q7rus67.8OJ:3^Nu/USV`<YIg?eW&jn8V+5D@Lk\K=<,>.>Rt%0h!<*,E<ihTn3Cm>O>@Mik(\M%A@P5#n:CCORf?N.'&p_Prd3F2![ih5p,<sZ,K!5,9>6reDK>>5b>!4_+HO]@S8l_I,]21j7`7K\abcQJ9.`5^.'r7c=L?%BZs0!bQn[m&2qbGL%>]P9&rBItfSPR=7Z]eq;'7dBj04`OQ%sM>W3X:(ol+[*C$aB`2=j2J`"V:`rILcaAa2mm>rSePYZpHE[8i4`.>\GkcAejCK:r4hd6T6EgjO2_=Sj"R>2#4&)k#F;P`S,%*MnFfp3E#F[t%R/C]T[*.3KO+JZpi"$AaD(/KgA![X_JKDA<^7=^0&n;a<BBY(1292<'k-(n1RNj0]J.^OR^D)s;2JLfk!n!S+1gfDQq?4!qL>5h=.Y"6lBq?p+#fk`F5&9KMN%LO4Tu,/^[020OQ<Y\q$P?&a9Al,1qVO4T4Cc>4jtd\[\Q&Tq99Ml@A"4L(HE_3'l.X\Oh:U9/,LBb+A-F^d2%:<Vl>3OYIqH)Rhj[Q6.#a2ND$:<Wg)l%'n4.rB&'f!AE_2e<J'POa01mQKu[D$u3@Qd-dI]8nTu%,;=t_a>^LFlpAWNNdoPZ_YFjrRlBUpm2+%c]goj&tK7qKl;)KrW^?.r(bX$j(?D%e5uGRGdWs;GKY8YUT,Bu5CL=mr@3gKW<-1D,ut3K(3stZQN8]-%PB@MR(9\E".4^hRl4;k3PDBZC:)[)eX]r-^AufE]`PNG"":Ca+&I<70u$aH:?)GHpFPL`5)dKogVJ$h(>Z1@i,i;5AIbj<#k*kV5sOIJ=1'9d+(+T+j,1Gln.P[#J$tO]V*SjZrEr*m6r'`;]dIc>qWI\=S*.#$Wr!gR(LU#Upg",Fnf,hV\lI\%'/D6:7uZ*7P(L?JbSLb&e"2</J0t#6<.N0$M%&=;g3aQQ18qBllo`WZ4[:jnqJ:E81A->4!:&I9?JDS]%IWU[j<L,("F:Eb*RP2M:][Fn[MT-qj,j#B]q8;#\Yd)q_N3s9SXXB@B4n1^>Uk=3U$upU@J2od5oI3~>endstream
+1 0 0 1 0 0 cm
+BT
+/F1 12 Tf
+14.4 TL
+ET
+0.031373 0.498039 0.470588 rg
+n
+0 831.89 595.28 10 re
+f*
+0.321569 0.388235 0.447059 rg
+BT
+/F2 9 Tf
+10.8 TL
+ET
+BT
+1 0 0 1 48 798.89 Tm
+(ECOCOMUNIDADE \057 API JAVA) Tj
+T*
+ET
+0.070588 0.203922 0.282353 rg
+BT
+/F2 23 Tf
+27.6 TL
+ET
+BT
+1 0 0 1 48 758.89 Tm
+(Execu\347\343o e deploy) Tj
+T*
+ET
+BT
+/F1 10 Tf
+12 TL
+ET
+0.321569 0.388235 0.447059 rg
+BT
+1 0 0 1 48 735.89 Tm
+(07 \057 Configura\347\343o local e publica\347\343o realizada no Render) Tj
+T*
+ET
+0.847059 0.890196 0.901961 RG
+n
+48 47 m
+547 47 l
+S
+BT
+/F1 8 Tf
+9.6 TL
+ET
+BT
+1 0 0 1 48 32 Tm
+(FIAP \174 Global Solution 2026\0572 \174 17 de novembro de 2026) Tj
+T*
+ET
+BT
+1 0 0 1 538.104 32 Tm
+(08) Tj
+T*
+ET
+0.031373 0.498039 0.470588 rg
+BT
+/F2 12 Tf
+14.4 TL
+ET
+BT
+1 0 0 1 48 701.89 Tm
+(Executar localmente) Tj
+T*
+ET
+q
+1 0 0 1 48 632.89 cm
+q
+0.070588 0.203922 0.282353 rg
+BT
+1 0 0 1 0 35 Tm
+/F1 10 Tf
+15 TL
+(Requisitos\072 JDK 21\053 e Maven 3\0569\053\056 O script utiliza JAVA\137HOME ou detecta um JDK em \056jdks\073 o Maven pode) Tj
+T*
+(estar no PATH ou em \056tools\056 Credenciais configuradas por ambiente ou por config\057application\055local\056properties\054) Tj
+T*
+(conforme a estrutura do arquivo \056example\056) Tj
+T*
+ET
+Q
+Q
+0.929412 0.960784 0.960784 rg
+n
+53 544.89 m
+542 544.89 l
+544.764 544.89 547 547.126 547 549.89 c
+547 617.89 l
+547 620.654 544.764 622.89 542 622.89 c
+53 622.89 l
+50.236 622.89 48 620.654 48 617.89 c
+48 549.89 l
+48 547.126 50.236 544.89 53 544.89 c
+h
+f*
+BT
+/F3 8.5 Tf
+10.2 TL
+ET
+0.070588 0.203922 0.282353 rg
+BT
+1 0 0 1 60 606.89 Tm
+(\056\134scripts\134run\056ps1 \055Test) Tj
+T*
+ET
+BT
+1 0 0 1 60 594.89 Tm
+(\056\134scripts\134run\056ps1) Tj
+T*
+ET
+BT
+1 0 0 1 60 582.89 Tm
+(\043 Alternativa com Maven instalado\072) Tj
+T*
+ET
+BT
+1 0 0 1 60 570.89 Tm
+(mvn test) Tj
+T*
+ET
+BT
+1 0 0 1 60 558.89 Tm
+(mvn spring\055boot\072run) Tj
+T*
+ET
+q
+1 0 0 1 48 400.89 cm
+q
+0.929412 0.960784 0.960784 rg
+n
+0 130 499 -26 re
+f*
+0 0 0 rg
+BT
+/F1 10 Tf
+12 TL
+ET
+q
+1 0 0 1 8 111 cm
+q
+0.070588 0.203922 0.282353 rg
+BT
+1 0 0 1 0 3.6 Tm
+/F1 8.4 Tf
+12 TL
+(Vari\341vel) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 183 111 cm
+q
+0.070588 0.203922 0.282353 rg
+BT
+1 0 0 1 0 3.6 Tm
+/F1 8.4 Tf
+12 TL
+(Finalidade) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 8 85 cm
+q
+0.070588 0.203922 0.282353 rg
+BT
+1 0 0 1 0 3.6 Tm
+/F1 8.4 Tf
+12 TL
+(DB\137URL) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 183 85 cm
+q
+0.070588 0.203922 0.282353 rg
+BT
+1 0 0 1 0 3.6 Tm
+/F1 8.4 Tf
+12 TL
+(URL JDBC do Oracle\056 Pode ser sobrescrita por ambiente\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 8 59 cm
+q
+0.070588 0.203922 0.282353 rg
+BT
+1 0 0 1 0 3.6 Tm
+/F1 8.4 Tf
+12 TL
+(DB\137USERNAME \057 DB\137PASSWORD) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 183 59 cm
+q
+0.070588 0.203922 0.282353 rg
+BT
+1 0 0 1 0 3.6 Tm
+/F1 8.4 Tf
+12 TL
+(Credenciais Oracle\073 n\343o incluir valores no c\363digo ou PDF\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 8 33 cm
+q
+0.070588 0.203922 0.282353 rg
+BT
+1 0 0 1 0 3.6 Tm
+/F1 8.4 Tf
+12 TL
+(PORT) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 183 33 cm
+q
+0.070588 0.203922 0.282353 rg
+BT
+1 0 0 1 0 3.6 Tm
+/F1 8.4 Tf
+12 TL
+(Porta HTTP \050padr\343o local 8080\051\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 8 7 cm
+q
+0.070588 0.203922 0.282353 rg
+BT
+1 0 0 1 0 3.6 Tm
+/F1 8.4 Tf
+12 TL
+(CORS\137ALLOWED\137ORIGINS) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 183 7 cm
+q
+0.070588 0.203922 0.282353 rg
+BT
+1 0 0 1 0 3.6 Tm
+/F1 8.4 Tf
+12 TL
+(Origens do front\054 separadas por v\355rgula\056 Padr\343o local\072 http\072\057\057localhost\0725173\056) Tj
+T*
+ET
+Q
+Q
+q
+1 J
+1 j
+0.847059 0.890196 0.901961 RG
+0.4 w
+n
+0 104 m
+499 104 l
+S
+n
+0 78 m
+499 78 l
+S
+n
+0 52 m
+499 52 l
+S
+n
+0 26 m
+499 26 l
+S
+n
+0 0 m
+499 0 l
+S
+Q
+Q
+Q
+0.031373 0.498039 0.470588 rg
+BT
+/F2 12 Tf
+14.4 TL
+ET
+BT
+1 0 0 1 48 384.89 Tm
+(Instala\347\343o do banco) Tj
+T*
+ET
+q
+1 0 0 1 48 315.89 cm
+q
+0.070588 0.203922 0.282353 rg
+BT
+1 0 0 1 0 35 Tm
+/F1 10 Tf
+15 TL
+(A instala\347\343o em schema novo utiliza database\05701\137schema\056sql e depois 02\137seed\056sql\056 scripts\057database\056ps1) Tj
+T*
+-0.039444 Tw
+(consulta a conex\343o\073 com \055Apply\054 instala apenas se n\343o houver objetos do projeto\056 A carga n\343o deve ser repetida) Tj
+T*
+0 Tw
+(no banco instalado\056 DDL Oracle confirma implicitamente\073 falhas parciais exigem revis\343o manual\056) Tj
+T*
+ET
+Q
+Q
+0.031373 0.498039 0.470588 rg
+BT
+/F2 12 Tf
+14.4 TL
+ET
+BT
+1 0 0 1 48 305.89 Tm
+(Publica\347\343o no Render \055 conclu\355da) Tj
+T*
+ET
+q
+1 0 0 1 48 221.89 cm
+q
+0.070588 0.203922 0.282353 rg
+BT
+1 0 0 1 0 50 Tm
+/F1 10 Tf
+15 TL
+(A API foi publicada como Web Service Docker no Render\054 a partir do reposit\363rio GitHub\056 O build copia pom\056xml\054) Tj
+T*
+(src e database\054 executa os testes e gera o JAR com Maven\057JDK 21\056 A imagem final usa JRE 21 e usu\341rio) Tj
+T*
+(10001\056 As credenciais Oracle ficam nas vari\341veis do servi\347o\056 A porta HTTP utiliza PORT\056 O CRUD remoto) Tj
+T*
+(confirmou a comunica\347\343o com o Oracle FIAP\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 48 172.74 cm
+q
+0.070588 0.203922 0.282353 rg
+BT
+1 0 0 1 0 30.15 Tm
+/F1 9 Tf
+13.05 TL
+(CORS autoriza http\072\057\057localhost\0725173 e https\072\057\057front\055two\055self\056vercel\056app\054 permite GET\054 POST\054 PUT\054 DELETE e OPTIONS em) Tj
+T*
+(\057api\057\052\052 e exp\365e Location\056 O front usa Fetch e a base https\072\057\057ecocomunidade\055api\056onrender\056com\057api\056 A raiz \057 retorna 404 por) Tj
+T*
+(n\343o possuir endpoint\056) Tj
+T*
+ET
+Q
+Q
+
+endstream
 endobj
 26 0 obj
 <<
-/Filter [ /ASCII85Decode /FlateDecode ] /Length 1634
+/Annots [ 27 0 R 28 0 R ]
+/Contents 29 0 R
+/MediaBox [ 0 0 595.28 841.89 ]
+/Parent 2 0 R
+/Resources <<
+/Font 8 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
 >>
-stream
-GauI8>BcPr&BE]".HWAPG-NZ)7/E.fDGGLuCZ=b\?5-3VH49?GG5(jhGD%R7-6%p<BK<d\*eSp:^IB,$U-S3:S*qU-pb7EL7gbKsoIEbqo3lqOPNe3"39:_Wc]87g0chPP#Qa&RW5)%0Vk/\fL]`\ETEIjj?f)oMSC&ItZagX+#C)NE/2gQe+9li'+eI>*cqQGBq#[9mQtE6V*)Fjtc>Kf!>[NFc`tK<+l0SY%3rS14%8=OQo^+]ZF\Ejo#T:OTJasg"is*OJ0Dp$!Yf.@A6>&_m_;41$\c]2=OX>$Zjlu-q/qO<D6%&%=#?`LClU9#oi2Njq-_jQ1lUb1NM'.D/j<E@GUKBI6N=["`i&(`HGNUpqfY/Fn%KV%=HOfd.>[a@d?g0I]9fsLN:2f)E31oM,M3mN'ZHdOmN3I9>n.-F(Wh@]hPs:Sgf]K@ZV6R-,>^-rE\7qB74/`%'[)8c88Xq%r[hlC'7nLBR,a%TNj!MeJ7_k'ppmHi*oHI!kG'I@&aqc6F+ER_M9G6&S#B%K&fA`3$@,!iYHJeh+FfKYsoGM"?)GUri\3"!>=%QZ,7,9L0<E66sb@F]4Lin(9_lS/-TKCT#<)o6a,0=BG.AT$N_]eg^/o_r%):YL\+$2f\:V,Y0#3mk>1F+1J*ffDd<Qg.V?#&Bi5)brU5eCckrlig*]-VU>77fRojDj6qRXaQ9dN.O*+l./4#T:0VS&^`9a`Pt1V)-\R=ut\!icf,$%omu3O[clRZW*]kh%DaNp9$NJ%TI`/Jbk8g%+r&WY]uhPisrHHErQ8d8*sV6=ZB7.E<eNq7VC461A\o=*-\K:P]TC^XuQ2I5>]==7iKWP<\MWZpZCmg]aG;b!u2f"TRL(Uj7TN51`WIN\-'-:m[r>'T\\oZjTCbeGG%<&F9^Qr+s!i?\76O'Ubc\.Yn=->j?7S<)<\t;@aFpmB*%X1/d#2@o=c^B%.mo'FV[7Ba2if]OYb:hqojL8hAO"FauZRsHSY;EH4K5<Wk/>?-Wr[mk?HQ`))h6&fjaM^+7a$-a]N0TXRV%^HI6K@5-nS&=t^>e(G4t71"gf2eTsSU1KNi'Q=d5L9.eCjf#r`C)6<FbQ=d5Lb:Ut@Xd<.YZ)j9!9/BW7%4ob+Xd<7\Z!&fc1h0[,A7<lO'j+G>e$$2a>E5P])5!NIPhAZ>TbmM0-5H(?;.u.olb.!"OeA7-OHc/dAIbQ*iN+Ug-qMl\cW:H'[=n)B"qmIoQ?mBPJm@N6QEZII"H?J0bHfPj9<%UbmhS4fQH^,29uID.S]H2PgW=JpF/aWH5$b.hnmHlQ"LZC7<%^#/j<#8JK.EhPK2(uCiQ2[\\8Gf?ALW+Y&'[^F_+^+LX.WXgUJ!-i1.D40QZ+\!/f!]%0SjJCnhuS`S7RCj>PDHpc=UQJnd[9:*TCF9Gbm=7b9AI.RW,O@Ak_'Tg37Cb"MMb2=6oP"oH-/Ub,[pq:h]WGIrc&gV$p-pZa(H#D0hbq#(Qe"gC<l:XMCO/C/raj#HlWh+i,Q*HUtK..VB8S?k!f;\JSC0Vo0WMb0l6FcBgtBJhHW>>\^tSN1`2m9Gc6"?Ea73)4ZCUG9l(Q=@,84Af-:!.#S5WY,Y2!O;2J1@=DW1_+MtE%ga6S"6<p?KE~>endstream
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+>>
 endobj
 27 0 obj
 <<
-/Filter [ /ASCII85Decode /FlateDecode ] /Length 1635
+/A <<
+/S /URI
+/Type /Action
+/URI (https\072\057\057docs\056spring\056io\057spring\055boot\0573\0565\057system\055requirements\056html)
 >>
-stream
-Gb!Sk>BA7Q'RnB330U6m6PWlX?cl<U.1i?f[P^2;U;egQZ)uqWB:7TSms?<QNa#%V#%!U0)B[*#cM`-q(f:-?p3U!Er1:db.0IR5]`f15!7FNM88!S_-6`I987F%]]LGl?0f8?32*tfh8=Y3(,iLI3$;D#>O(Le!-:</a`%`&@;$N='PVpB&Z$%OPSK6KtcD;Y<.#Er;["=L"o?I*njdT?;eT,d5$Wt,L_i*X2j_p60K_3[Mj5:U0kTT,62+GR')AgC5O%B%gF)l3ecb.ts\qLsPRo^7B5!RQnc$abq`]:FLUpiT87WGT#*?*%?GeLX_!AAB>-^_O^G<=>A;>+kYW33X/p8PLXk&%/s6-"U,<(g@,!jNOG=3n*)BJG=9!f>h0.H/tc&0(Y5"*kI5HMDTqHjtSCZVo[/K^,l3$=*b34Buj<_*[0[XmbiGVU7jk\*bWeCR$(jN!<TG%I_j7?uNTeIF4&cZ:^P2W_MM?m>;&oZ,lK^>Gu^[/)a'Ml:;Q9-k=7tl/NZTMMrdTWg_%[qaH@"J4*i(2bZ8D64)\GPI]B'cHIJk\-JFU,b[W!;\2Dn!VbU)=EQB..,cBBCCJH<YbJIUZEmXCZL_VBH6:10[^-K#S4/o>!AT^SjMp=F3]91H+b_Tie,7hLX)&ga')rNY]ZAB@e^m6eZ@%**m."MSLaKX6cAMAmC+LN;k>rJOVlr!sQh)Fo\==thlRZuFXg[.o6&%2f[+*_FO"pWDC7(Beq:&t/Fe^\o6rh'3fY.gpR6:+U2JH0-$5-cA.bpVgnNS5A5g_DD"'3E8WFa,fomr;W`tULYljTo,XYf72O*RWhD2V"L`XBAk/M]D[euOpV:TusY.$QK2_c])FE3=*LG9ViBq*@5u?0\OI9Q9^ETImmXle+]645I\u"hDt&#ne8)FJhcB%mWn5SbKV)WDmND[DCC<B9dAU,b]_Gh[ad_'XeSI3MXa'_UeNE(aItU-lNr?/bY.^2Cnn#OANt7!KV(:=H\b&p)mTo7c]4W,]a=&(G0,VH"7>m2M!jl7\n=eq&SD=Lm=MY"4m?/`q%Rq,=og"+(gHSQMr&N)#'p,#\+""R,I8Dar>c"2h`EDq=F:%ON$>r)tM(G#=rQU*LZ3B]#J_>eQ,i,0L'6KParjsJs<`GK(,p%6nr&GlaNAZ@G&9r&(6/f"UTZ1\eo)HImb%X2J'Bo(1gfoIIg`_(Hc.rcbL95Z0)J'@9A&T_8L<sO$_S'Q6$/m)g\[&KTff\'`o=/*4WkBQ7JIfEeR_e\=<UN"p4j:B<`FekK/8I5)uoG1p.C!bjf,E_"V[FOQD@d6Sf`1$:0j^a:.lcr&qe7au<'U1K0mnn;L9C*#Ws\U_Z_^<9goqoOZE-g.]2=.?TCjaE?H#AtJ$c9)`!MmmlKo,B"&Wj4OCIaPY/h_g_:srGVXj9d<B4-YGT3nWWXG747PgI>rmqitm#^9%3/@cmFi$a!6df4]B_iT6gDubDjhPKc;%EY#IdH\5sHC4>'_TC[3J":/Xr5_\oMY5W+PtCepo2<m$pGqc6_$^>;,60;7UfK-lA"E"neLHRC)>i3mP]I*`>jZ_l([WgW7Rf0Jgp`%ugra&QBoh.c_2Q_/i_mE/n:oAX8\l\@?JftYCdl;I~>endstream
+/Border [ 0 0 0 ]
+/Rect [ 136.533 207.94 276.087 218.74 ]
+/Subtype /Link
+/Type /Annot
+>>
 endobj
 28 0 obj
 <<
-/Filter [ /ASCII85Decode /FlateDecode ] /Length 2076
+/A <<
+/S /URI
+/Type /Action
+/URI (https\072\057\057docs\056oracle\056com\057en\057database\057oracle\057oracle\055database\05726\057jjdbc\057data\055sources\055and\055URLs\056html)
 >>
-stream
-Gatm<=]a?;'RnB3\>N-0#E0G%n<?7#V$@9[Zk"t:K<Wn!NbtV!d[jV@qcqg?ir\b%e$-cr@bpM<Y+J.6i%Jq2isal5!Y4*bTF;TCJ@^aKMfY7;-4]"!#94^B$42d_)A"P1Tib'1>T.YJKFrHkkHGLGJO75?2\Us&lM:33%n"?">\03iAlSrO+DPkO'6Z>p9fnWq&:u;e@M]pKbtdCKo8?D2B;a5-)'$Ncl3ojM5>PY(i[ZS:ZoYWV3=IcU%'Kl"&'u.PE%Gu+Vr>90m^#Ga,&Xq1giD;9,tQh>Z4Q*tce=75HXPE&UO+&VER1?k+*[?XMB#gT9'L^F<*g^nhBiloX$Tc0PBj"@g_YYclJdIK$;)R#o"f#m'WupQrud[J5R&9Yia3$O<qjt>*c3V:B8ps#cDF\40Dq.$4+U%I=r[-b&`t/jr.=c7Tj4d4G#pNCRBM(JPEkG'd%SCcU.I%`m+Z'$mJ0IA`>ME4&W9o$Y7p^W#i5L6`?'..\5<A6bjWE/1if\P+*hN%KV?P%#;R2[Zqh?QN0Ufj1YH3um[YumkepS6.m;P78,V3$;;Cp6&;N"*EXcKCW`UNU.sqVb[j16T=fOmPYnG[Z>:n$5FO)+[)(bHhiMts,B6E&V`=_=G67kW[.EW$ppL0mk<N.j9bbR`P_Ok=oFeY1JU[f#XXi8lNDmakXU2`REi^sul4LQ3_PBh`nZ/2pHO^n/e,o=-(M8kgAe\[QD+A`qg`&1l*,M-2A7%kgNnVd:]E#A2id(I]qMt'JIB<olCZ;>S"Go:nU.9Ih6=^G,Q'sZ*r&-X88ZG]]B?)+&rUrS#3<])pN\iBRLhhSP]Amc[iQsP5FbUu\go.g9lBLi%^Q`@'DBB@AG6Xn8&>u\JP2o`f)0rR0^T4-d:40d)S3n*8l_CkKuZ?(+?EH6koN<HHA;H:;E\t?k$f_QFs:olFGb,66O!WTop2*eOepU4!s(V?@)'kV"1TU?8eDA!1tNecF1%dY2"VFWN7nU\;GNt&csc[)J34CT>^2(>a!f8V\Z?:*4hXUSJ#DR$j<?tt(GQ>I&&@U]al!1'(\op5bZ41#3!C&D/-gfS#W_ht8D%-j2RjujgsM'CQj)#E)j'We&IgoI`%A?:9DS(3?D%";Ul!W%qH>-O(U/*k5H5:nHaR7sfhW+/Mp\qs[+<>o"_eorpuW+'rrJ"Rk&6k6k"8JLSjNVTBs!kPkpmG?+SI!2fGGOoVFFEKWMb\gcT/kSAU[iVie6Ded?/5r!PSQ?8]l,+C<='e(!V+3O]8<`@&S%.rp+YIk<1ubA]N8*Y0fdRcLDe$nOEZ=G(WORV?mVQT%+)^5-)!>ZJN_%BuX>OO-3+Xi\,91W)-;BT$*-5lFPWs(<dntRuX8_-'s#pRPGb\m();MWYl_64?m;j'%1K3cnN@&qc=BsNo:t@.&<(Ne(%)H:A-:\IVNLF6f5hG/C&_9RP=Lk]Pe:sp2mr]HYL!91d/t*]:oaaWl/YPru4_p!^O[^-+cQRHVdX:U_]BkKTR]'#HGj'R,3d_P(]kBAjO`0Y^qhesAd3LR(#u$pt,Qsnj"Csb'D"A/qc/3$e*"M<TZc%FjUEj9L%8>,VN!6(iA/!:#p*R`tf*QiV:7-6L`ed%pX<"XEcV2OlB<GNND?@lQ>d+8hMcp/*%V(.FNH#DI)#*EGoA8@3BSLE:!66*hg5\6hg9ju%IP:6PIY.O"Bk&.=mWHQ4r?9:h@`QOIU"g]Pr:BQCJpE/Kq[gQD8nH)EZ1PakJlh(_idfGZl7No<+p@ppJ$m$k&dtIcV"U&S`F,MZ=VCpj29=NEZ':XWT4/]`g$%W*dYrqKQ4<*#3]:&AP#aVRHMQCt"8dtun$R^+'J"<>-&`0"pcq(gOc8*hZaE$sgqLeqc2->+EuGr$:@Q,$5m)nrMU7spEJJe.8pMkP3`^S#,F5CmW(Fk&cnimh,\G[K2I@/=KkA;i,-nXDP_T/`g2n,a=5&3cgl"9ddEKf-r$mhESZWF.DZ#an`2E"[,ru7d*rffsgZ#(ohg@P1?tR^=9`8*Y3-;tHT%:DBGMO;jPa.ej1pstRots*"PQ(Yb)GBG~>endstream
+/Border [ 0 0 0 ]
+/Rect [ 281.091 207.94 438.636 218.74 ]
+/Subtype /Link
+/Type /Annot
+>>
 endobj
 29 0 obj
 <<
-/Filter [ /ASCII85Decode /FlateDecode ] /Length 2224
+/Length 5686
 >>
 stream
-Gatm<>BALZ&:WeDm*'`HF+TKl?me`,O@r@^.$4.VR>eA8`2RUaZ;&fnq=/+L(EdF":8U_#aKemZqY&BE@K=G5UV-FX^rI=7c3uC#R,*C'1E0q-0V#Nf[g]<M!OFqU>9<e;\Dt/n+'Ju.\sC0;%iio(V@*S5/`H]5`@TJW](i_q\u+S^'T%)\<@Tc?/+mlDep;;hW(jR'k]nd44,`'*GWIl+?/OLD%f1f$FJ(k4KMVP"r=:T/K%XRD@q?<0d6c=#?W(WUBJV5<BD,I%D0=--h6Za3\RkO)CFP>Va>?dZ2mbG5nT"kHK@A*dDsFWu7MkOPISNm`+$LBBXHc8t(D3ZBMa\?V)\9:i;><ce!YPYMR06E+_VeHEEHuGH?!ucT!L%SH'l(1(&;,U:r'W5U2WE.K]Ih3,AngM_AUb-g_KhpmB\??R738H39Q##8-9a,pL_C]7Pjq'j)UkIJTJ`c2QHK\S2bS5dKdX@8XnLgo"FYtV2dU_a(V52SQ:W\f1js:Z89HMJV#2(-GE^-N*?4W*C>!!H6O"Q)jS'kB_H^Zmn7hA&R)\%Ia_S/G$!>FKS&#@c?\`>*L`q&MAFnWrk^!N75j37Qk5pON'ULPYVr1d&!ifQP<P`Dl#;W%`+rSE!f`d5]qmfU%`o'h>5ULq._@6?sA:_g@"UuY^KS0WQd!bRR8#.RgNh"iV@:Q9;WRQ2AZ_NddH<KK7JcIVm(HF)VJHDNbmn3gX5)VC[,hp-31]B,ToPAUlo=DTtg8eS<,qXf&Z#+MKgi@5;\VXKHk]Q9)Jd@<BAshD#m$5;#d7r6V2*uOtEn5@_6!BpsRahIO1\=7S4[p=79WQq''.rJQBNQkQ[r>SfN2gl78L<-D\CukuH>I"P/BM[YbFCW[Xhr*X@U#2ZVqVcPc0#goZM@`A#tm&Vg,&B>gZK$"*RERc]Nr`=)mR/N+6?BJ8<'H2[_t$B_ZUhoM*N)"?_tf4<T7Qkq+a</JXG<=;B7(pm=eI60cI[kptD7AO7*R=dJF[ag[h(t5-%Qr0@sn>b\qKLXU*CF@D"Bc:fOQKKM)?H=ngj4cln-c@k"0SB4S-jE329<4:;hH*J"LW<eW09cCVBP52P*jY'+]"Dn8aWL<>RT'S/_Wp_\3_N'S(3W?G1J/W&s6;E*Xmld3"qK(IhmYR?0LE,sFBVSWN*`r5/olY&'+$-_8UD^KuAQkN#j66],$W!G737ALJ:arp]=l<6LKTI;+F#A:X[ZE-3W3$(e+42KRA-Dch+(UMd3jp.jkoOb)aEgP*:m+QGt?To?%VK`!>X3oPXi,1B^4MSOsmK?p)MFT^TO@_osjBel45JlHCMKM4hS6M#K+,WVIl$3T]0g+TDHJIbLGE45sNub!.]`m"8r''Kt7+%kR<?T9g0J5^INMmhnfq)DDih2]\b^'a(boB4AC(:Kn*3Z8b3V0e]3<$:V[+n[D]W>#e\f+'e(F&D"[^9Q_cG$=$IZnG(3g1EHa@@+H07Yo];bRB>(CQAI%QEgUk:HKO<IKhC5etXV9Zhl4=^?hqSOR;!)JF0pca.K,j[WJEAOV8"Lm!63T1^+ub!McWa.i+e;.Cc*<$k/99K'`L;&)_4`G4ogYq.6SYc+?PK0K&s5D\IH5VB+AX^ru'bZ9]X]JLh3!FJnK$jM?b3k/0IX@>IlR&X6sq.7s'!r'c>U:JWN0U0n.(1L7K%'rQG/<U'mh:M>b+1$a+HG/k7?>e<06(9FGGYBK(^#dj^1/6fbCi]:d2Gk-9YJR0S%*F`._,n0tWRT,<QS;882lYD@*hhm3_&TdN5b2SgYfi`1TgK"H@=D')W4,nD@2.X7Bh/OhB$YJ(DB(G!',,/i*MF_#((H??<#/peP40U!R8DNM:"ElfVs:(604?EQGP>(^5`oLL1`>9t'J)$)gC5uPV9e(iP8#o?^Z@de_A=p<<L9b$/1g%R&Hq0oP+h,$F#8Z2dM?]nFE0H.-t8IB(X3Pt&<gc6C6?0u3c1iF;h2IEm7@P2DY-WRZelWd3&=T$V"ua&`ON7s4s5_fC"gOq;&t4`q$\@0H(pl0;!gqGpC,BP0-c3'iXoQk(l-a,Se#I(LrP[^[s/c!YD0A,Xt^j@/k7j!N)D06Ydk0(LPPY$5,Upk8&COkH;28^e5gnf9]l=!:j5J^=d^L_<T-M<C`=1#.a]P"):$^rj=Mt#?W_,Y$np88?u'/6"'7tAJHj5c;>l.,(_r84[25M/+33O&>6~>endstream
+1 0 0 1 0 0 cm
+BT
+/F1 12 Tf
+14.4 TL
+ET
+0.031373 0.498039 0.470588 rg
+n
+0 831.89 595.28 10 re
+f*
+0.321569 0.388235 0.447059 rg
+BT
+/F2 9 Tf
+10.8 TL
+ET
+BT
+1 0 0 1 48 798.89 Tm
+(ECOCOMUNIDADE \057 API JAVA) Tj
+T*
+ET
+0.070588 0.203922 0.282353 rg
+BT
+/F2 23 Tf
+27.6 TL
+ET
+BT
+1 0 0 1 48 758.89 Tm
+(Verifica\347\343o e limites) Tj
+T*
+ET
+BT
+/F1 10 Tf
+12 TL
+ET
+0.321569 0.388235 0.447059 rg
+BT
+1 0 0 1 48 735.89 Tm
+(08 \057 Evid\352ncias da vers\343o\054 pend\352ncias e rastreabilidade) Tj
+T*
+ET
+0.847059 0.890196 0.901961 RG
+n
+48 47 m
+547 47 l
+S
+BT
+/F1 8 Tf
+9.6 TL
+ET
+BT
+1 0 0 1 48 32 Tm
+(FIAP \174 Global Solution 2026\0572 \174 17 de novembro de 2026) Tj
+T*
+ET
+BT
+1 0 0 1 538.104 32 Tm
+(09) Tj
+T*
+ET
+q
+1 0 0 1 48 511.89 cm
+q
+0.929412 0.960784 0.960784 rg
+n
+0 190 499 -26 re
+f*
+0 0 0 rg
+BT
+/F1 10 Tf
+12 TL
+ET
+q
+1 0 0 1 8 171 cm
+q
+0.070588 0.203922 0.282353 rg
+BT
+1 0 0 1 0 3.6 Tm
+/F1 8.4 Tf
+12 TL
+(Verifica\347\365es de 14 a 16\05711\0572026) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 183 171 cm
+q
+0.070588 0.203922 0.282353 rg
+BT
+1 0 0 1 0 3.6 Tm
+/F1 8.4 Tf
+12 TL
+(Resultado registrado) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 8 145 cm
+q
+0.070588 0.203922 0.282353 rg
+BT
+1 0 0 1 0 3.6 Tm
+/F1 8.4 Tf
+12 TL
+(Oracle FIAP) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 183 133 cm
+q
+0.070588 0.203922 0.282353 rg
+BT
+1 0 0 1 0 15.6 Tm
+/F1 8.4 Tf
+12 TL
+(Autentica\347\343o confirmada\073 7 tabelas\054 6 sequences e 60 registros ap\363s a limpeza) Tj
+T*
+(dos testes\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 8 107 cm
+q
+0.070588 0.203922 0.282353 rg
+BT
+1 0 0 1 0 3.6 Tm
+/F1 8.4 Tf
+12 TL
+(Testes automatizados) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 183 95 cm
+q
+0.070588 0.203922 0.282353 rg
+BT
+1 0 0 1 0 15.6 Tm
+/F1 8.4 Tf
+12 TL
+(ApiIntegrationTest\072 3 testes\054 0 falhas e 0 erros\056 H2 em modo Oracle\054 usando os) Tj
+T*
+(mesmos scripts SQL\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 8 69 cm
+q
+0.070588 0.203922 0.282353 rg
+BT
+1 0 0 1 0 3.6 Tm
+/F1 8.4 Tf
+12 TL
+(CRUD real via HTTP) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 183 45 cm
+q
+0.070588 0.203922 0.282353 rg
+BT
+1 0 0 1 0 27.6 Tm
+/F1 8.4 Tf
+12 TL
+(Teste remoto em 15\05711\0572026 confirmou GET\054 POST\054 PUT e DELETE das 3) Tj
+T*
+(entidades\054 com rotas aninhadas e status 200\054 201 e 204\056 Registros tempor\341rios) Tj
+T*
+(exclu\355dos\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 8 19 cm
+q
+0.070588 0.203922 0.282353 rg
+BT
+1 0 0 1 0 3.6 Tm
+/F1 8.4 Tf
+12 TL
+(Empacotamento) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 183 7 cm
+q
+0.070588 0.203922 0.282353 rg
+BT
+1 0 0 1 0 15.6 Tm
+/F1 8.4 Tf
+12 TL
+(JAR gerado com Maven\056 Build Docker e deploy no Render conclu\355dos\073 CRUD) Tj
+T*
+(remoto validado em 15\05711\0572026\056) Tj
+T*
+ET
+Q
+Q
+q
+1 J
+1 j
+0.847059 0.890196 0.901961 RG
+0.4 w
+n
+0 164 m
+499 164 l
+S
+n
+0 126 m
+499 126 l
+S
+n
+0 88 m
+499 88 l
+S
+n
+0 38 m
+499 38 l
+S
+n
+0 0 m
+499 0 l
+S
+Q
+Q
+Q
+q
+1 0 0 1 48 450.89 cm
+q
+0.070588 0.203922 0.282353 rg
+BT
+1 0 0 1 0 35 Tm
+/F1 10 Tf
+15 TL
+(Os testes cobrem DTOs\054 CRUD\054 relacionamentos\054 depend\352ncias\054 CORS e respostas 201\054 200\054 204\054 400\054 404\054) Tj
+T*
+(405 e 409\056 Os resultados podem ser reproduzidos com scripts\057run\056ps1 \055Test\073 o teste real exige a API ativa e) Tj
+T*
+(scripts\057smoke\056ps1\056 H2 n\343o reproduz todos os comportamentos do Oracle\056) Tj
+T*
+ET
+Q
+Q
+0.031373 0.498039 0.470588 rg
+BT
+/F2 12 Tf
+14.4 TL
+ET
+BT
+1 0 0 1 48 440.89 Tm
+(Limites e pr\363ximas etapas) Tj
+T*
+ET
+q
+1 0 0 1 48 356.89 cm
+q
+0.070588 0.203922 0.282353 rg
+BT
+1 0 0 1 0 50 Tm
+/F1 10 Tf
+15 TL
+(N\343o h\341 login de moradores\054 autoriza\347\343o por resid\352ncia\054 pagina\347\343o\054 previs\343o por IA\054 c\341lculo por leitura) Tj
+T*
+(acumulada ou gera\347\343o autom\341tica de alertas\056 O schema de alertas est\341 preparado\054 mas a API exp\365e somente) Tj
+T*
+(resid\352ncias\054 medidores e leituras\056 A conta Oracle serve \340 conex\343o do sistema\056 A vers\343o atual utiliza dados) Tj
+T*
+(demonstrativos\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 48 301.89 cm
+q
+0.070588 0.203922 0.282353 rg
+BT
+1 0 0 1 0 35 Tm
+/F1 10 Tf
+15 TL
+(V\355deo gravado e link inclu\355do no README e neste PDF\056 Contrato de data e hora alinhado com o front\056) Tj
+T*
+(Pend\352ncias\072 publicar o v\355deo no YouTube n\343o listado\054 conforme o enunciado\073 montar e conferir o ZIP) Tj
+T*
+(sem target\054 \056tools e credenciais locais\056 Link atual do v\355deo\072 Google Drive\056) Tj
+T*
+ET
+Q
+Q
+0.031373 0.498039 0.470588 rg
+BT
+/F2 12 Tf
+14.4 TL
+ET
+BT
+1 0 0 1 48 291.89 Tm
+(Fontes e uso de IA) Tj
+T*
+ET
+q
+1 0 0 1 48 228.74 cm
+q
+0.070588 0.203922 0.282353 rg
+BT
+1 0 0 1 0 30.15 Tm
+/F1 9 Tf
+13.05 TL
+(Fontes locais\072 c\363digo em src\057main\057java\054 pom\056xml\054 database\05701\137schema\056sql\054 README\056md\054 scripts\057smoke\056ps1 e relat\363rios em) Tj
+T*
+(target\057surefire\055reports\056 Requisitos de Java\072 enunciado FIAP Global Solution 2026\0572\054 p\341ginas 47 a 55\056 A modelagem de \341gua) Tj
+T*
+(deriva do SQL fornecido pelo grupo\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 48 192.64 cm
+q
+BT
+1 0 0 1 0 17.1 Tm
+13.05 TL
+/F1 9 Tf
+0.070588 0.203922 0.282353 rg
+(Refer\352ncias t\351cnicas\072 ) Tj
+0.031373 0.498039 0.470588 rg
+(Spring Boot \055 requisitos de sistema) Tj
+0.070588 0.203922 0.282353 rg
+(\073 ) Tj
+0.031373 0.498039 0.470588 rg
+(Oracle JDBC \055 Data Sources and URLs) Tj
+0.070588 0.203922 0.282353 rg
+(\056 Links para consulta) Tj
+T*
+(t\351cnica\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 48 143.49 cm
+q
+0.070588 0.203922 0.282353 rg
+BT
+1 0 0 1 0 30.15 Tm
+/F1 9 Tf
+13.05 TL
+(Uso de IA\072 API e documento produzidos com apoio do Codex a partir dos arquivos do projeto e instru\347\365es do grupo\056 A) Tj
+T*
+(confer\352ncia t\351cnica incluiu testes automatizados e CRUD no Oracle\056 O registro da revis\343o cr\355tica e do aprendizado integra a) Tj
+T*
+(entrega de Software Engineering\056) Tj
+T*
+ET
+Q
+Q
+
+endstream
 endobj
 30 0 obj
 <<
-/Filter [ /ASCII85Decode /FlateDecode ] /Length 2411
+/Author (Equipe EcoComunidade \055 FIAP)
+/CreationDate (D\07220261116232548\05503\04700\047)
+/Creator (anonymous)
+/Keywords ()
+/ModDate (D\07220261116232548\05503\04700\047)
+/Producer (ReportLab PDF Library \055 \050opensource\051)
+/Subject (unspecified)
+/Title (EcoComunidade \174 Documenta\347\343o t\351cnica da API Java)
+/Trapped /False
 >>
-stream
-Gatm<>uTM!&q/qEoHV!0aSN9GnDmt)$Ukg4Auk@%Xh$A\K,GkIP`b%gVXBN&dj)sM,kbQE.#]HARd$EmVbd'FOc(=-IO@/'LD>e5HK=n/\gK.Q6<[[AEcpHQJJUu^El*(`"u38Z2k&"4XH*]^SHYT@M^aN.a.JLWP*'kdl]DkU?8TLQ_//6=&SCR?QtKPh5/l*5lc_CO)"p"W_AQ).))&VEl$.K"H$];^p@ko4I'KJ%c*,FVI/_1a(KruMlIXV-egJLnLVAg")\!#&r.*&f;ePZBF4&Ro+4@*7Q&%YWE/NO<PGCn6Wg;2N@ZQgjGN&9u*Sg>7?4cf'g_ogmgo0kk+S(FYM2G1s)egd;I70n_#1"P4;:S-n4-cdEUiHaYX>Pd0>q_e2@kSm/ImU)A24RQ>&\deWkbd7UN;!nP5pl*'QQOQ9=7e`RPj(8\WB+g0V$lj"Ikp`f^me.MWR)TPh\j]5r9-.KrMi^KF$)DJQZhE*CYt-V[Nj+=/'0O4`-r[-BIBC]doj2oFu8i#Qbk_ZGQ+CJTPN0D)=U"lG)!fdWRi"Ja<PVm0`col\);8#o]s46cQnYg6fE_EJC)s?`\10aJtJS]hCNn=?`mtjA@4rc!*Lgk#.JqR",&@S,K#j;,afpTbi,Z._<WXud6<ccVNs[L/8Go)gaeSH<1M="C2kUW;2o6UQ2K4S,*ABg'=S3:=!UCk/ARPB]p.DCn,76`VoX@8S3mRndl0U4ASmQCC7U8dI7N@uK2BRkN84L[96F:bEbtq,3'6]&Jo:0)be+bFK9[UHU]G3?rT9<f.G#\G)u1('Ppl.bcKX@o<]NFH&u3U\U73ePLQJ%EDZo.cp$DemL1G.cT\ieN_i/t[$FKJ:DZjK/f<o48]Vs0USs[*_:Wq:EXtFYfqfW-:(X%`uC'jjB.+gl,`+G\Jr/&_@kSfLNTo');g.52NW1+-Gl]1Jr&Sl=Kd.N^W[EM9\O;=EbK:'`X,\p4Z,-^AUYMUfJbIeMqgs<7%rDLRbG\&)dVt9`^Rb!Xuc[tmoCh2MOLIPi(/TgP`)ShW\1=Q7lo`A_oMBRXd#L*Q0MmfR,1#3+>IU<6PB/#q;p[M'sL;SMK7;NU25][h'40HqR'V+DWES$6QQ$*]trE.F-"hQLu)fk>eQPWbF;\6LO,5_C039noZWbU#jJ$5"8n.%G*@W`".141>-67*=98fN0e"8-)8KD."%Dn*QE<N.Jq3QO>JBcW3^jLYtIgK9,HKF+=k3s=<806e4s3edA:Tes&33c2S]*bGb$&i;L@iKTTtml4<C8@Pb2@NhAn>+uLGWsKg%#hl^ia8LDLfiQ9G=9U80U=3>A>-kon,]^*K4M$)M,[W=g5b$T;YWm6lcPs8GFShBpU2<s49kh,54fOs*U)'T(p@VTT1jLqf,57ulpq=Z+JH^fa]iG:q6+Q,/1b<-Af*n\5Y#kcM%c=Dq7b]FIEVBeEN81@Hp\rhcK#fjUUrh>a9WGZY]=KSW->tZ\,XH9M#'Lc!D<9I+26_QSP6_iefd/';+S4P7JJr\jn=^Q/NtF+B/OSStBmW"C1e1[YUggPQloUQ5Z4QMfU3.4Ejt&I!k]jq>h+3,TQcJ2dlRmE\6-\@(:Y;6K^s3.375LM9:J-D%_D+qR(Ynb9_1r_rU[NMI,m%/oN[qp7>\q?*g/p4tp1PQKAqW'D'oAem'b+d[eG!=]=Z(E/:SnO>`eI5ZYo6\J+>QrEjk$[O+,S;`gC7LCkDR[0'2U&6\p-[uX8`?5@6I-b!13<X:0LNAFH7<$JXf*4L3?*lVkrXe_CPQ]ljD^nd7g":XEQG\e66K)eATF-o%U/GnIo/p:0i-R5uDK7[I`_3dcqm&jApT\?LQ.X_2l99*'RheQ@VbATfAP1P6Bd83RdJ_Ui7>mbDZ(M+#n/]N6ZGOb^7Xk8W]s[/YSG$`jnpbp^q=.Y3Xkgb-R3>e=EQ!f_,6mVPR4>_g!,8-Vm8)K-8neOtk'*!B3,CIiGCGFQ9AU&l"a@LO=h;=55BUCK..37e`F<7Dlr0jR)L3kD*D(b;!P4Wq]sR.#KuSd1F2%VG_0XfipCf!sQu,)p9[P_ArPA-BJG%oq>o3e!0]:\pCXM9Y/;-DhP!Ja67G-hhGQh!;WEM+?F6sB4k+-(D.tZ`d[p7nP*^sZ)/%8fCTQg%q4fMX'9)K""4+bVGkP,`J7BZ=`FAskf3*H%VH6^]tUHEd>UF/O:H@;_PV`igP$Y*[bF!)I2Kc7\''Z`4q6DY`<;u%e`(It??@foeB08o.B)nBU1#.O1;qLm!UcGc_8*EJai=n4%HP8Ar\L9](N$MXpk@#\?ta[a218Etlo9mQmGY(t2De7Ar[c=o_&?;=KNF4NU#kZM,6gTRY1"mFM;`^ble(cTU[RN`KTWVmOC(m@dp<66NrB5^7YQ<~>endstream
+endobj
+31 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [ 48 402 300 417 ]
+/Border [ 0 0 0 ]
+/A <<
+/S /URI
+/Type /Action
+/URI (https\072\057\057drive\056google\056com\057file\057d\0571MfjANvEr8DI3tfJ3YRQbDPAR3N0D7MZ\137\057view\077usp\075sharing)
+>>
+/P 3 0 R
+>>
 endobj
 xref
-0 31
+0 32
 0000000000 65535 f 
-0000000061 00000 n 
-0000000112 00000 n 
-0000000219 00000 n 
-0000000331 00000 n 
-0000000529 00000 n 
-0000000705 00000 n 
-0000000882 00000 n 
-0000001113 00000 n 
-0000001218 00000 n 
-0000001419 00000 n 
-0000001621 00000 n 
-0000001823 00000 n 
-0000002025 00000 n 
-0000002227 00000 n 
-0000002429 00000 n 
-0000002631 00000 n 
-0000002841 00000 n 
-0000003082 00000 n 
-0000003310 00000 n 
-0000003380 00000 n 
-0000003709 00000 n 
-0000003824 00000 n 
-0000005795 00000 n 
-0000007952 00000 n 
-0000009603 00000 n 
-0000012071 00000 n 
-0000013797 00000 n 
-0000015524 00000 n 
-0000017692 00000 n 
-0000020008 00000 n 
+0000000015 00000 n 
+0000000083 00000 n 
+0000000198 00000 n 
+0000000430 00000 n 
+0000000652 00000 n 
+0000000849 00000 n 
+0000001047 00000 n 
+0000008007 00000 n 
+0000008060 00000 n 
+0000008167 00000 n 
+0000008280 00000 n 
+0000008386 00000 n 
+0000008583 00000 n 
+0000014065 00000 n 
+0000014262 00000 n 
+0000018094 00000 n 
+0000018291 00000 n 
+0000025567 00000 n 
+0000025764 00000 n 
+0000034978 00000 n 
+0000035175 00000 n 
+0000039850 00000 n 
+0000040047 00000 n 
+0000045998 00000 n 
+0000046195 00000 n 
+0000051550 00000 n 
+0000051773 00000 n 
+0000052019 00000 n 
+0000052311 00000 n 
+0000058050 00000 n 
+0000058413 00000 n 
 trailer
 <<
-/ID 
-[<a91fd4981b8e8ad86c4549e226bc0a78><a91fd4981b8e8ad86c4549e226bc0a78>]
-% ReportLab generated PDF document -- digest (opensource)
-
-/Info 20 0 R
-/Root 19 0 R
-/Size 31
+/Size 32
+/Root 1 0 R
+/Info 30 0 R
+/ID [ (\251\037\324\230\033\216\212\330lEI\342\046\274\012x) (\251\037\324\230\033\216\212\330lEI\342\046\274\012x) ]
 >>
 startxref
-22511
+58672
 %%EOF
