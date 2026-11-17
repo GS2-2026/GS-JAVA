@@ -63,7 +63,9 @@ O instalador interrompe se algum objeto do projeto ja existir. Nao faz DROP. Ora
 
 Bases existentes preservam seus IDs e sequences: a versao anterior iniciava em 1000 (100 para tipos de alerta). Um ID como 1002 e valido e nao representa a quantidade de registros. Nao reiniciar sequences nem renumerar registros existentes, pois IDs ja emitidos podem estar referenciados. Lacunas por exclusao ou rollback sao normais; a API continua usando NEXTVAL para evitar colisoes entre cadastros concorrentes. A alteracao do schema vale para novas instalacoes, sem modificar o Oracle ja instalado.
 
-`dataHoraLeitura` usa horario local sem sufixo de fuso (`LocalDateTime`), e `dataInstalacao` usa somente a data (`LocalDate`). O frontend deve preservar esses valores sem converte-los para UTC.
+`dataHoraLeitura` usa horario local sem sufixo de fuso (`LocalDateTime`), e `dataInstalacao` usa somente a data (`LocalDate`). O frontend preserva esses valores sem converte-los para UTC. A validacao de datas passadas ou atuais utiliza o relogio de America/Sao_Paulo, independentemente do fuso do servidor.
+
+Verificacao em 17/11/2026: o front envia o horario digitado por `dataHoraParaApi`, sem `toISOString()` na gravacao. Os testes locais confirmaram a preservacao de `21:15:00` e a rejeicao de horario futuro em Sao Paulo mesmo com o servidor configurado em UTC. O contrato considera horarios locais de Sao Paulo.
 
 ## Contrato HTTP
 
@@ -141,7 +143,6 @@ Pendencias para a entrega:
 
 - Gravacao e disponibilizacao do video de ate cinco minutos.
 - Inclusao do link do video no README e no PDF.
-- Padronizacao do contrato de data e hora das leituras entre front-end e API.
 - Montagem do ZIP final sem target, .tools e credenciais locais.
 
 Referencias tecnicas: [Spring Boot](https://docs.spring.io/spring-boot/3.5/system-requirements.html), [Oracle JDBC](https://docs.oracle.com/en/database/oracle/oracle-database/26/jjdbc/data-sources-and-URLs.html).
