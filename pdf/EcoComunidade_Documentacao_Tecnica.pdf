@@ -10,18 +10,18 @@ endobj
 2 0 obj
 <<
 /Count 9
-/Kids [ 3 0 R 12 0 R 14 0 R 16 0 R 18 0 R 20 0 R 22 0 R 24 0 R 26 0 R ]
+/Kids [ 3 0 R 13 0 R 15 0 R 17 0 R 19 0 R 21 0 R 23 0 R 25 0 R 27 0 R ]
 /Type /Pages
 >>
 endobj
 3 0 obj
 <<
-/Annots [ 4 0 R 5 0 R 6 0 R 31 0 R ]
-/Contents 7 0 R
+/Annots [ 4 0 R 5 0 R 6 0 R 7 0 R ]
+/Contents 8 0 R
 /MediaBox [ 0 0 595.28 841.89 ]
 /Parent 2 0 R
 /Resources <<
-/Font 8 0 R
+/Font 9 0 R
 /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
 >>
 /Rotate 0
@@ -70,6 +70,20 @@ endobj
 >>
 endobj
 7 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [ 48 402 300 417 ]
+/Border [ 0 0 0 ]
+/A <<
+/S /URI
+/Type /Action
+/URI (https\072\057\057drive\056google\056com\057file\057d\0571MfjANvEr8DI3tfJ3YRQbDPAR3N0D7MZ\137\057view\077usp\075sharing)
+>>
+/P 3 0 R
+>>
+endobj
+8 0 obj
 <<
 /Length 6908
 >>
@@ -757,14 +771,14 @@ Q
 
 endstream
 endobj
-8 0 obj
+9 0 obj
 <<
-/F1 9 0 R
-/F2 10 0 R
-/F3 11 0 R
+/F1 10 0 R
+/F2 11 0 R
+/F3 12 0 R
 >>
 endobj
-9 0 obj
+10 0 obj
 <<
 /BaseFont /Helvetica
 /Encoding /WinAnsiEncoding
@@ -773,7 +787,7 @@ endobj
 /Type /Font
 >>
 endobj
-10 0 obj
+11 0 obj
 <<
 /BaseFont /Helvetica-Bold
 /Encoding /WinAnsiEncoding
@@ -782,7 +796,7 @@ endobj
 /Type /Font
 >>
 endobj
-11 0 obj
+12 0 obj
 <<
 /BaseFont /Courier
 /Encoding /WinAnsiEncoding
@@ -791,13 +805,13 @@ endobj
 /Type /Font
 >>
 endobj
-12 0 obj
+13 0 obj
 <<
-/Contents 13 0 R
+/Contents 14 0 R
 /MediaBox [ 0 0 595.28 841.89 ]
 /Parent 2 0 R
 /Resources <<
-/Font 8 0 R
+/Font 9 0 R
 /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
 >>
 /Rotate 0
@@ -806,7 +820,7 @@ endobj
 /Type /Page
 >>
 endobj
-13 0 obj
+14 0 obj
 <<
 /Length 5429
 >>
@@ -1244,13 +1258,13 @@ Q
 
 endstream
 endobj
-14 0 obj
+15 0 obj
 <<
-/Contents 15 0 R
+/Contents 16 0 R
 /MediaBox [ 0 0 595.28 841.89 ]
 /Parent 2 0 R
 /Resources <<
-/Font 8 0 R
+/Font 9 0 R
 /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
 >>
 /Rotate 0
@@ -1259,7 +1273,7 @@ endobj
 /Type /Page
 >>
 endobj
-15 0 obj
+16 0 obj
 <<
 /Length 3779
 >>
@@ -1559,13 +1573,13 @@ Q
 
 endstream
 endobj
-16 0 obj
+17 0 obj
 <<
-/Contents 17 0 R
+/Contents 18 0 R
 /MediaBox [ 0 0 595.28 841.89 ]
 /Parent 2 0 R
 /Resources <<
-/Font 8 0 R
+/Font 9 0 R
 /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
 >>
 /Rotate 0
@@ -1574,7 +1588,7 @@ endobj
 /Type /Page
 >>
 endobj
-17 0 obj
+18 0 obj
 <<
 /Length 7223
 >>
@@ -2146,13 +2160,13 @@ Q
 
 endstream
 endobj
-18 0 obj
+19 0 obj
 <<
-/Contents 19 0 R
+/Contents 20 0 R
 /MediaBox [ 0 0 595.28 841.89 ]
 /Parent 2 0 R
 /Resources <<
-/Font 8 0 R
+/Font 9 0 R
 /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
 >>
 /Rotate 0
@@ -2161,7 +2175,7 @@ endobj
 /Type /Page
 >>
 endobj
-19 0 obj
+20 0 obj
 <<
 /Length 9161
 >>
@@ -3141,13 +3155,13 @@ Q
 
 endstream
 endobj
-20 0 obj
+21 0 obj
 <<
-/Contents 21 0 R
+/Contents 22 0 R
 /MediaBox [ 0 0 595.28 841.89 ]
 /Parent 2 0 R
 /Resources <<
-/Font 8 0 R
+/Font 9 0 R
 /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
 >>
 /Rotate 0
@@ -3156,7 +3170,7 @@ endobj
 /Type /Page
 >>
 endobj
-21 0 obj
+22 0 obj
 <<
 /Length 4622
 >>
@@ -3477,13 +3491,13 @@ Q
 
 endstream
 endobj
-22 0 obj
+23 0 obj
 <<
-/Contents 23 0 R
+/Contents 24 0 R
 /MediaBox [ 0 0 595.28 841.89 ]
 /Parent 2 0 R
 /Resources <<
-/Font 8 0 R
+/Font 9 0 R
 /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
 >>
 /Rotate 0
@@ -3492,7 +3506,7 @@ endobj
 /Type /Page
 >>
 endobj
-23 0 obj
+24 0 obj
 <<
 /Length 5898
 >>
@@ -3963,13 +3977,13 @@ Q
 
 endstream
 endobj
-24 0 obj
+25 0 obj
 <<
-/Contents 25 0 R
+/Contents 26 0 R
 /MediaBox [ 0 0 595.28 841.89 ]
 /Parent 2 0 R
 /Resources <<
-/Font 8 0 R
+/Font 9 0 R
 /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
 >>
 /Rotate 0
@@ -3978,9 +3992,9 @@ endobj
 /Type /Page
 >>
 endobj
-25 0 obj
+26 0 obj
 <<
-/Length 5302
+/Length 5154
 >>
 stream
 1 0 0 1 0 0 cm
@@ -4059,9 +4073,9 @@ BT
 1 0 0 1 0 35 Tm
 /F1 10 Tf
 15 TL
-(Requisitos\072 JDK 21\053 e Maven 3\0569\053\056 O script utiliza JAVA\137HOME ou detecta um JDK em \056jdks\073 o Maven pode) Tj
+(Requisitos\072 JDK 21\053 e Maven 3\0569\053 instalados\054 JAVA\137HOME configurado e mvn dispon\355vel no PATH\056) Tj
 T*
-(estar no PATH ou em \056tools\056 Credenciais configuradas por ambiente ou por config\057application\055local\056properties\054) Tj
+(Credenciais configuradas por ambiente ou por config\057application\055local\056properties\054) Tj
 T*
 (conforme a estrutura do arquivo \056example\056) Tj
 T*
@@ -4088,27 +4102,27 @@ ET
 0.070588 0.203922 0.282353 rg
 BT
 1 0 0 1 60 606.89 Tm
-(\056\134scripts\134run\056ps1 \055Test) Tj
-T*
-ET
-BT
-1 0 0 1 60 594.89 Tm
-(\056\134scripts\134run\056ps1) Tj
-T*
-ET
-BT
-1 0 0 1 60 582.89 Tm
-(\043 Alternativa com Maven instalado\072) Tj
-T*
-ET
-BT
-1 0 0 1 60 570.89 Tm
 (mvn test) Tj
 T*
 ET
 BT
-1 0 0 1 60 558.89 Tm
+1 0 0 1 60 594.89 Tm
 (mvn spring\055boot\072run) Tj
+T*
+ET
+BT
+1 0 0 1 60 582.89 Tm
+(\043 Gerar o JAR\072) Tj
+T*
+ET
+BT
+1 0 0 1 60 570.89 Tm
+(mvn clean package) Tj
+T*
+ET
+BT
+1 0 0 1 60 558.89 Tm
+() Tj
 T*
 ET
 q
@@ -4299,10 +4313,10 @@ BT
 1 0 0 1 0 35 Tm
 /F1 10 Tf
 15 TL
-(A instala\347\343o em schema novo utiliza database\05701\137schema\056sql e depois 02\137seed\056sql\056 scripts\057database\056ps1) Tj
+(No SQL Developer conectado ao Oracle FIAP\054 execute database\05701\137schema\056sql e depois 02\137seed\056sql\056) Tj
 T*
 -0.039444 Tw
-(consulta a conex\343o\073 com \055Apply\054 instala apenas se n\343o houver objetos do projeto\056 A carga n\343o deve ser repetida) Tj
+(Execute somente em schema novo\054 sem objetos do projeto\056 N\343o repita a cria\347\343o nem a carga inicial) Tj
 T*
 0 Tw
 (no banco instalado\056 DDL Oracle confirma implicitamente\073 falhas parciais exigem revis\343o manual\056) Tj
@@ -4359,14 +4373,14 @@ Q
 
 endstream
 endobj
-26 0 obj
+27 0 obj
 <<
-/Annots [ 27 0 R 28 0 R ]
-/Contents 29 0 R
+/Annots [ 28 0 R 29 0 R ]
+/Contents 30 0 R
 /MediaBox [ 0 0 595.28 841.89 ]
 /Parent 2 0 R
 /Resources <<
-/Font 8 0 R
+/Font 9 0 R
 /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
 >>
 /Rotate 0
@@ -4375,7 +4389,7 @@ endobj
 /Type /Page
 >>
 endobj
-27 0 obj
+28 0 obj
 <<
 /A <<
 /S /URI
@@ -4388,7 +4402,7 @@ endobj
 /Type /Annot
 >>
 endobj
-28 0 obj
+29 0 obj
 <<
 /A <<
 /S /URI
@@ -4401,9 +4415,9 @@ endobj
 /Type /Annot
 >>
 endobj
-29 0 obj
+30 0 obj
 <<
-/Length 5686
+/Length 5645
 >>
 stream
 1 0 0 1 0 0 cm
@@ -4654,9 +4668,9 @@ BT
 15 TL
 (Os testes cobrem DTOs\054 CRUD\054 relacionamentos\054 depend\352ncias\054 CORS e respostas 201\054 200\054 204\054 400\054 404\054) Tj
 T*
-(405 e 409\056 Os resultados podem ser reproduzidos com scripts\057run\056ps1 \055Test\073 o teste real exige a API ativa e) Tj
+(405 e 409\056 Execute mvn test para os testes automatizados\056 Para verificar o CRUD real\054 use a API ativa) Tj
 T*
-(scripts\057smoke\056ps1\056 H2 n\343o reproduz todos os comportamentos do Oracle\056) Tj
+(no Postman ou Insomnia\056 H2 n\343o reproduz todos os comportamentos do Oracle\056) Tj
 T*
 ET
 Q
@@ -4725,7 +4739,7 @@ BT
 1 0 0 1 0 30.15 Tm
 /F1 9 Tf
 13.05 TL
-(Fontes locais\072 c\363digo em src\057main\057java\054 pom\056xml\054 database\05701\137schema\056sql\054 README\056md\054 scripts\057smoke\056ps1 e relat\363rios em) Tj
+(Fontes locais\072 c\363digo em src\057main\057java\054 pom\056xml\054 database\05701\137schema\056sql\054 README\056md e relat\363rios em) Tj
 T*
 (target\057surefire\055reports\056 Requisitos de Java\072 enunciado FIAP Global Solution 2026\0572\054 p\341ginas 47 a 55\056 A modelagem de \341gua) Tj
 T*
@@ -4777,7 +4791,7 @@ Q
 
 endstream
 endobj
-30 0 obj
+31 0 obj
 <<
 /Author (Equipe EcoComunidade \055 FIAP)
 /CreationDate (D\07220261116232548\05503\04700\047)
@@ -4790,61 +4804,47 @@ endobj
 /Trapped /False
 >>
 endobj
-31 0 obj
-<<
-/Type /Annot
-/Subtype /Link
-/Rect [ 48 402 300 417 ]
-/Border [ 0 0 0 ]
-/A <<
-/S /URI
-/Type /Action
-/URI (https\072\057\057drive\056google\056com\057file\057d\0571MfjANvEr8DI3tfJ3YRQbDPAR3N0D7MZ\137\057view\077usp\075sharing)
->>
-/P 3 0 R
->>
-endobj
 xref
 0 32
 0000000000 65535 f 
 0000000015 00000 n 
 0000000083 00000 n 
 0000000198 00000 n 
-0000000430 00000 n 
-0000000652 00000 n 
-0000000849 00000 n 
-0000001047 00000 n 
-0000008007 00000 n 
-0000008060 00000 n 
-0000008167 00000 n 
-0000008280 00000 n 
-0000008386 00000 n 
-0000008583 00000 n 
-0000014065 00000 n 
-0000014262 00000 n 
-0000018094 00000 n 
-0000018291 00000 n 
-0000025567 00000 n 
-0000025764 00000 n 
-0000034978 00000 n 
-0000035175 00000 n 
-0000039850 00000 n 
-0000040047 00000 n 
-0000045998 00000 n 
-0000046195 00000 n 
-0000051550 00000 n 
-0000051773 00000 n 
-0000052019 00000 n 
-0000052311 00000 n 
-0000058050 00000 n 
-0000058413 00000 n 
+0000000429 00000 n 
+0000000651 00000 n 
+0000000848 00000 n 
+0000001046 00000 n 
+0000001304 00000 n 
+0000008264 00000 n 
+0000008318 00000 n 
+0000008426 00000 n 
+0000008539 00000 n 
+0000008645 00000 n 
+0000008842 00000 n 
+0000014324 00000 n 
+0000014521 00000 n 
+0000018353 00000 n 
+0000018550 00000 n 
+0000025826 00000 n 
+0000026023 00000 n 
+0000035237 00000 n 
+0000035434 00000 n 
+0000040109 00000 n 
+0000040306 00000 n 
+0000046257 00000 n 
+0000046454 00000 n 
+0000051661 00000 n 
+0000051884 00000 n 
+0000052130 00000 n 
+0000052422 00000 n 
+0000058120 00000 n 
 trailer
 <<
 /Size 32
 /Root 1 0 R
-/Info 30 0 R
+/Info 31 0 R
 /ID [ (\251\037\324\230\033\216\212\330lEI\342\046\274\012x) (\251\037\324\230\033\216\212\330lEI\342\046\274\012x) ]
 >>
 startxref
-58672
+58483
 %%EOF

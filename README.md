@@ -23,14 +23,14 @@ A raiz `/` nao possui endpoint e retorna 404. Os recursos estao sob `/api`.
 
 ## Rodar localmente
 
-Requisitos: JDK 21+ e Maven 3.9+. O script `scripts/run.ps1` utiliza JAVA_HOME ou detecta um JDK em `.jdks`; o Maven pode estar no PATH ou em `.tools`.
+Requisitos: JDK 21+ e Maven 3.9+ instalados, com JAVA_HOME configurado e mvn disponivel no PATH.
 
-```powershell
-.\scripts\run.ps1 -Test
-.\scripts\run.ps1
+```shell
+mvn test
+mvn spring-boot:run
 ```
 
-Com Maven instalado: `mvn test` e `mvn spring-boot:run`. API em `http://localhost:8080/api`.
+API em `http://localhost:8080/api`. Para gerar o JAR: `mvn clean package`.
 
 As credenciais sao configuradas pelas variaveis DB_USERNAME e DB_PASSWORD ou pelo arquivo local `config/application-local.properties`, ignorado pelo Git e pelo Docker. A estrutura esta em `config/application-local.properties.example`.
 
@@ -49,17 +49,8 @@ Modelo adaptado do SQL de agua fornecido em `BD/GS-DATABASE-main.zip`. Nao modif
 1. `database/01_schema.sql`: tabelas e sequences.
 2. `database/02_seed.sql`: dados demonstrativos.
 3. `database/03_consultas.sql`: dez consultas, somente leitura.
-4. `database/04_crud_exemplo.sql`: demonstracao com rollback, opcional.
 
-Execucao pelo SQL Developer conectado ao Oracle da FIAP ou pelos scripts locais, apos resolucao das dependencias Maven:
-
-```powershell
-$env:JAVA_HOME = 'C:\caminho\do\jdk'
-.\scripts\database.ps1         # testa conexao e consulta objetos
-.\scripts\database.ps1 -Apply  # cria schema e insere seed
-```
-
-O instalador interrompe se algum objeto do projeto ja existir. Nao faz DROP. Oracle confirma DDL implicitamente; falhas parciais exigem revisao do schema. A inicializacao da API nao cria nem apaga tabelas automaticamente.
+Execute os arquivos pelo SQL Developer conectado ao Oracle da FIAP. A criacao e a carga inicial devem ocorrer somente em um schema novo, sem objetos do projeto. Nao repita esses scripts no banco ja instalado. Oracle confirma DDL implicitamente; falhas parciais exigem revisao do schema. A inicializacao da API nao cria nem apaga tabelas automaticamente.
 
 Bases existentes preservam seus IDs e sequences: a versao anterior iniciava em 1000 (100 para tipos de alerta). Um ID como 1002 e valido e nao representa a quantidade de registros. Nao reiniciar sequences nem renumerar registros existentes, pois IDs ja emitidos podem estar referenciados. Lacunas por exclusao ou rollback sao normais; a API continua usando NEXTVAL para evitar colisoes entre cadastros concorrentes. A alteracao do schema vale para novas instalacoes, sem modificar o Oracle ja instalado.
 
@@ -119,17 +110,13 @@ O campo consumoLitros representa consumo do periodo em litros. Valores podem dim
 
 Os testes de integracao usam H2 em modo Oracle, carregam os mesmos scripts de schema/seed e exercitam CRUD, DTOs, relacionamentos, integridade, regras, CORS e status HTTP. H2 e apenas para testes e nao substitui a verificacao real no Oracle.
 
-Validacao realizada em 14/11/2026: conexao autenticada ao Oracle FIAP, schema instalado, 60 registros conferidos, tres testes de integracao aprovados e JAR gerado. O script `scripts/smoke.ps1` tambem confirmou GET, POST, PUT e DELETE reais das tres entidades pelo servidor local, incluindo rotas aninhadas; removeu os registros temporarios ao final.
+Validacao realizada em 14/11/2026: conexao autenticada ao Oracle FIAP, schema instalado, 60 registros conferidos, tres testes de integracao aprovados e JAR gerado. A verificacao HTTP tambem confirmou GET, POST, PUT e DELETE reais das tres entidades pelo servidor local, incluindo rotas aninhadas; os registros temporarios foram removidos ao final.
 
-O teste HTTP real e executado por `.\scripts\smoke.ps1`, com a API ativa e a comunidade de exemplo de ID 1. IDs consumidos pelas sequences nao sao reutilizados.
+Para verificar o CRUD real, use Postman ou Insomnia com a API ativa, seguindo os endpoints e exemplos JSON deste documento. Crie registros de teste e remova primeiro as leituras, depois os medidores e por ultimo as residencias. IDs consumidos pelas sequences nao sao reutilizados.
 
-Validacao remota em 15/11/2026: o resultado do script executado contra a API publicada no Render confirmou GET, POST, PUT e DELETE de residencias, medidores e leituras no Oracle, incluindo as rotas aninhadas. As respostas foram 200 para consultas e atualizacoes, 201 para cadastros e 204 para exclusoes. Os registros temporarios foram removidos ao final.
+Validacao remota em 15/11/2026: a verificacao contra a API publicada no Render confirmou GET, POST, PUT e DELETE de residencias, medidores e leituras no Oracle, incluindo as rotas aninhadas. As respostas foram 200 para consultas e atualizacoes, 201 para cadastros e 204 para exclusoes. Os registros temporarios foram removidos ao final.
 
-Comando do teste remoto, sem necessidade de iniciar a API local:
-
-```powershell
-.\scripts\smoke.ps1 -BaseUrl "https://ecocomunidade-api.onrender.com/api"
-```
+Para testar a API publicada no Postman ou Insomnia, use a base `https://ecocomunidade-api.onrender.com/api`, sem necessidade de iniciar a API local.
 
 ## Deploy e entrega
 
