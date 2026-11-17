@@ -24,12 +24,28 @@ class ApiIntegrationTest {
     @Autowired DataSource dataSource;
     @Autowired ObjectMapper mapper;
     JdbcTemplate jdbc;
-    @BeforeAll void schema() throws Exception {
+    @BeforeEach void schema() throws Exception {
         jdbc = new JdbcTemplate(dataSource);
+        jdbc.execute("DROP ALL OBJECTS"); // Somente H2 isolado do perfil test.
         try (Connection c = dataSource.getConnection()) {
             ScriptUtils.executeSqlScript(c, new FileSystemResource("database/01_schema.sql"));
             ScriptUtils.executeSqlScript(c, new FileSystemResource("database/02_seed.sql"));
         }
+    }
+    @Test void sequenciasContinuamAposSeed() {
+        String[] tabelas = {"comunidade", "residencia", "medidor", "leitura", "tipo_alerta", "alerta"};
+        for (String tabela : tabelas) {
+            Long esperado = jdbc.queryForObject("SELECT MAX(cd_" + tabela + ") + 1 FROM tb_" + tabela, Long.class);
+            Long proximo = jdbc.queryForObject("SELECT sq_tb_" + tabela + ".NEXTVAL FROM dual", Long.class);
+            Assertions.assertEquals(esperado, proximo, tabela);
+        }
+    }
+    @Test void leituraPreservaHorarioLocalEAceitaZero() throws Exception {
+        long id = create("leituras", "{\"idMedidor\":1,\"dataHoraLeitura\":\"2026-01-02T21:15:00\",\"consumoLitros\":0}");
+        Assertions.assertEquals(21, id);
+        mvc.perform(get("/api/leituras/" + id)).andExpect(status().isOk())
+            .andExpect(jsonPath("dataHoraLeitura").value("2026-01-02T21:15:00"))
+            .andExpect(jsonPath("consumoLitros").value(0));
     }
     long create(String resource, String body) throws Exception {
         var result = mvc.perform(post("/api/" + resource).contentType("application/json").content(body))

@@ -43,7 +43,7 @@ As credenciais sao configuradas pelas variaveis DB_USERNAME e DB_PASSWORD ou pel
 
 ## Banco de dados
 
-Modelo adaptado do SQL de agua fornecido em `BD/GS-DATABASE-main.zip`. Nao modifica as tabelas antigas sem prefixo. Sete tabelas, seis sequences, PK/FK, CHECK, UNIQUE, indices e 60 registros demonstrativos. IDs novos comecam em 1000; no catalogo de tipos de alerta, em 100 (coluna NUMBER(3)), para evitar colisao com o seed. Executar apenas uma vez, em ordem:
+Modelo adaptado do SQL de agua fornecido em `BD/GS-DATABASE-main.zip`. Nao modifica as tabelas antigas sem prefixo. Sete tabelas, seis sequences, PK/FK, CHECK, UNIQUE, indices e 60 registros demonstrativos. Em instalacoes novas, IDs continuam apos o seed: comunidade 5, residencia 11, medidor 11, leitura 21, tipo de alerta 5 e alerta 6. Executar apenas uma vez, em ordem:
 
 1. `database/01_schema.sql`: tabelas e sequences.
 2. `database/02_seed.sql`: dados demonstrativos.
@@ -59,6 +59,10 @@ $env:JAVA_HOME = 'C:\caminho\do\jdk'
 ```
 
 O instalador interrompe se algum objeto do projeto ja existir. Nao faz DROP. Oracle confirma DDL implicitamente; falhas parciais exigem revisao do schema. A inicializacao da API nao cria nem apaga tabelas automaticamente.
+
+Bases existentes preservam seus IDs e sequences: a versao anterior iniciava em 1000 (100 para tipos de alerta). Um ID como 1002 e valido e nao representa a quantidade de registros. Nao reiniciar sequences nem renumerar registros existentes, pois IDs ja emitidos podem estar referenciados. Lacunas por exclusao ou rollback sao normais; a API continua usando NEXTVAL para evitar colisoes entre cadastros concorrentes. A alteracao do schema vale para novas instalacoes, sem modificar o Oracle ja instalado.
+
+`dataHoraLeitura` usa horario local sem sufixo de fuso (`LocalDateTime`), e `dataInstalacao` usa somente a data (`LocalDate`). O frontend deve preservar esses valores sem converte-los para UTC.
 
 ## Contrato HTTP
 
