@@ -47,6 +47,18 @@ class ApiIntegrationTest {
             .andExpect(jsonPath("dataHoraLeitura").value("2026-01-02T21:15:00"))
             .andExpect(jsonPath("consumoLitros").value(0));
     }
+    @Test void rejeitaHorarioFuturoEmSaoPauloMesmoComServidorUtc() throws Exception {
+        var original = java.util.TimeZone.getDefault();
+        try {
+            java.util.TimeZone.setDefault(java.util.TimeZone.getTimeZone("UTC"));
+            var futuro = java.time.LocalDateTime.now(java.time.ZoneId.of("America/Sao_Paulo")).plusHours(1).withNano(0);
+            mvc.perform(post("/api/leituras").contentType("application/json")
+                .content("{\"idMedidor\":1,\"dataHoraLeitura\":\"" + futuro + "\",\"consumoLitros\":10}"))
+                .andExpect(status().isBadRequest());
+        } finally {
+            java.util.TimeZone.setDefault(original);
+        }
+    }
     long create(String resource, String body) throws Exception {
         var result = mvc.perform(post("/api/" + resource).contentType("application/json").content(body))
             .andExpect(status().isCreated()).andExpect(header().exists("Location")).andReturn();
