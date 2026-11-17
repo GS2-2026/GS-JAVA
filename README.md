@@ -9,13 +9,14 @@ API de monitoramento de consumo de agua para a Global Solution FIAP. Java 21, Sp
 | Lucas Fortunato Brandão de Pinho | 572860 | 1TDSPI |
 | Lucas Costa | 571016 | 1TDSPI |
 | Henrique Soares Serra | 573618 | 1TDSPI |
-| Arthur Chang Skolimoski | 572510 | 1TDSPH |
+| Arthur Chang Skolimoski | 572510 | 1TDSPK |
 
 ## Links da entrega
 
 - API publicada: [EcoComunidade no Render](https://ecocomunidade-api.onrender.com).
 - Consulta de residencias: [GET /api/residencias](https://ecocomunidade-api.onrender.com/api/residencias).
-- Front-end: pendente de integracao e disponibilizacao do link.
+- Front-end publicado: [EcoComunidade no Vercel](https://front-two-self.vercel.app).
+- Repositorio do front-end: [GS2-2026/Front](https://github.com/GS2-2026/Front).
 - Video de demonstracao: pendente de gravacao e disponibilizacao do link.
 
 A raiz `/` nao possui endpoint e retorna 404. Os recursos estao sob `/api`.
@@ -134,12 +135,13 @@ API publicada no Render como Web Service Docker, com Dockerfile multi-stage. A c
 
 A documentacao tecnica esta em [output/pdf/EcoComunidade_Documentacao_Tecnica.pdf](output/pdf/EcoComunidade_Documentacao_Tecnica.pdf), com integrantes, diagramas, endpoints, regras e execucao.
 
+Integracao com o front React no Vercel confirmada pelo grupo. O PDF tecnico foi atualizado em 16/11/2026 com os links publicos, o deploy concluido e a validacao do CRUD remoto.
+
 Pendencias para a entrega:
 
-- Integracao com o React, com consulta e operacao de escrita reais.
 - Gravacao e disponibilizacao do video de ate cinco minutos.
-- Inclusao dos links do front-end e do video no README.
-- Atualizacao do PDF com a URL publicada da API, a validacao remota e os links finais da entrega.
+- Inclusao do link do video no README e no PDF.
+- Padronizacao do contrato de data e hora das leituras entre front-end e API.
 - Montagem do ZIP final sem target, .tools e credenciais locais.
 
 Referencias tecnicas: [Spring Boot](https://docs.spring.io/spring-boot/3.5/system-requirements.html), [Oracle JDBC](https://docs.oracle.com/en/database/oracle/oracle-database/26/jjdbc/data-sources-and-URLs.html).
